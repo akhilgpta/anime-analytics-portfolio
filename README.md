@@ -37,7 +37,7 @@ Dataset stored in [`/data/anime_tv_series_dataset.csv`](data/anime_tv_series_dat
 - Top 10 studios by average rating  
 
 ![Releases by Year (Excel)](images/releases_by_year.png)  
-![Ratings by Genre (Excel)](images/rating_by_genre.png)  
+![Ratings by Genre (Excel)](images/ratings_by_genre.png)  
 ![Top 10 Studios (Excel)](images/top10_popularity.png)  
 
 ---
