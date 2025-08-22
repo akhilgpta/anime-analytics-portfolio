@@ -1,0 +1,1201 @@
+anime_id,title_english,start_year,episodes,genre_main,score_avg,popularity,studio
+1001,Anime Series 1,1998,10,Fantasy,6.31,216194,Bones
+1002,Anime Series 2,2011,97,Drama,7.08,233584,Production I.G
+1003,Anime Series 3,1988,66,Romance,6.14,423632,Trigger
+1004,Anime Series 4,1974,27,Romance,7.26,137886,Studio Pierrot
+1005,Anime Series 5,2002,75,Adventure,9.11,83537,Trigger
+1006,Anime Series 6,1967,6,Horror,5.56,317402,Sunrise
+1007,Anime Series 7,2020,138,Sci-Fi,6.59,152580,Kyoto Animation
+1008,Anime Series 8,1980,17,Action,6.46,90166,Trigger
+1009,Anime Series 9,1998,95,Fantasy,6.65,214988,CloverWorks
+1010,Anime Series 10,2017,51,Supernatural,7.82,380854,Production I.G
+1011,Anime Series 11,1978,39,Romance,7.43,302843,Studio Pierrot
+1012,Anime Series 12,1982,83,Drama,7.68,313479,CloverWorks
+1013,Anime Series 13,1970,50,Adventure,7.02,313950,Kyoto Animation
+1014,Anime Series 14,1970,78,Drama,5.94,344997,MAPPA
+1015,Anime Series 15,1983,31,Action,6.11,199840,Sunrise
+1016,Anime Series 16,2012,52,Sci-Fi,7.6,302883,J.C.Staff
+1017,Anime Series 17,1995,126,Adventure,7.14,39785,Madhouse
+1018,Anime Series 18,1999,61,Adventure,8.01,168052,A-1 Pictures
+1019,Anime Series 19,1983,99,Sports,7.23,487551,Kyoto Animation
+1020,Anime Series 20,1962,112,Fantasy,6.05,236791,CloverWorks
+1021,Anime Series 21,1981,68,Adventure,6.58,492918,J.C.Staff
+1022,Anime Series 22,2012,53,Mystery,7.45,352160,J.C.Staff
+1023,Anime Series 23,1961,66,Sports,7.57,399825,Kyoto Animation
+1024,Anime Series 24,1983,86,Sports,7.68,71253,Other Studio
+1025,Anime Series 25,2003,31,Action,6.16,483697,J.C.Staff
+1026,Anime Series 26,1989,41,Mystery,6.04,96128,Production I.G
+1027,Anime Series 27,1997,6,Comedy,6.85,426357,J.C.Staff
+1028,Anime Series 28,1961,13,Drama,8.15,166081,Trigger
+1029,Anime Series 29,2023,118,Sci-Fi,6.44,394725,Gainax
+1030,Anime Series 30,2019,104,Slice of Life,7.36,115966,Studio Pierrot
+1031,Anime Series 31,1980,52,Drama,7.36,142854,Bones
+1032,Anime Series 32,1992,132,Adventure,7.61,490288,Production I.G
+1033,Anime Series 33,1971,61,Sci-Fi,8.33,104352,J.C.Staff
+1034,Anime Series 34,2017,19,Romance,8.25,424149,White Fox
+1035,Anime Series 35,1981,33,Comedy,6.52,344298,MAPPA
+1036,Anime Series 36,2020,83,Romance,5.32,144379,White Fox
+1037,Anime Series 37,2003,135,Mystery,6.46,228279,Madhouse
+1038,Anime Series 38,1984,114,Romance,7.06,242281,Sunrise
+1039,Anime Series 39,2008,19,Supernatural,6.71,113297,CloverWorks
+1040,Anime Series 40,1986,61,Fantasy,8.57,211946,J.C.Staff
+1041,Anime Series 41,2018,120,Drama,7.02,43346,Toei Animation
+1042,Anime Series 42,2022,12,Slice of Life,7.52,117138,Trigger
+1043,Anime Series 43,2001,8,Supernatural,7.17,317916,Madhouse
+1044,Anime Series 44,2023,116,Action,6.72,470300,MAPPA
+1045,Anime Series 45,1987,112,Slice of Life,5.46,45149,Trigger
+1046,Anime Series 46,2019,23,Romance,6.94,353844,Studio Pierrot
+1047,Anime Series 47,1975,43,Adventure,9.5,163598,J.C.Staff
+1048,Anime Series 48,1974,120,Comedy,6.0,363902,CloverWorks
+1049,Anime Series 49,2021,20,Horror,5.55,483928,Studio Pierrot
+1050,Anime Series 50,2021,124,Slice of Life,8.55,133447,J.C.Staff
+1051,Anime Series 51,2006,33,Romance,7.59,466693,A-1 Pictures
+1052,Anime Series 52,2021,44,Comedy,7.15,10695,Bones
+1053,Anime Series 53,2010,22,Sci-Fi,8.09,44169,Studio Pierrot
+1054,Anime Series 54,2003,91,Drama,6.33,315091,Bones
+1055,Anime Series 55,2014,131,Sports,6.91,183296,Madhouse
+1056,Anime Series 56,2011,49,Fantasy,7.76,313009,Wit Studio
+1057,Anime Series 57,2023,30,Comedy,8.69,161625,A-1 Pictures
+1058,Anime Series 58,2016,18,Adventure,6.07,371645,Sunrise
+1059,Anime Series 59,1962,30,Mystery,8.02,327554,Other Studio
+1060,Anime Series 60,1996,73,Adventure,7.31,370898,Production I.G
+1061,Anime Series 61,2010,143,Comedy,7.13,358039,Bones
+1062,Anime Series 62,1966,72,Adventure,6.99,423032,A-1 Pictures
+1063,Anime Series 63,1980,114,Drama,5.89,191098,Wit Studio
+1064,Anime Series 64,1968,116,Adventure,7.77,317849,CloverWorks
+1065,Anime Series 65,1998,116,Slice of Life,6.37,197994,Bones
+1066,Anime Series 66,1977,39,Sports,6.14,382844,Gainax
+1067,Anime Series 67,1963,116,Adventure,7.71,341058,White Fox
+1068,Anime Series 68,1984,13,Sports,7.63,6881,Gainax
+1069,Anime Series 69,2019,118,Romance,7.06,437783,Other Studio
+1070,Anime Series 70,1973,88,Action,7.86,314509,Other Studio
+1071,Anime Series 71,2009,47,Drama,8.14,84211,Kyoto Animation
+1072,Anime Series 72,2017,106,Action,8.05,468338,MAPPA
+1073,Anime Series 73,1968,11,Romance,6.58,161078,Sunrise
+1074,Anime Series 74,1985,31,Drama,7.81,308342,White Fox
+1075,Anime Series 75,2012,69,Comedy,7.17,421047,MAPPA
+1076,Anime Series 76,1961,64,Comedy,8.38,367793,CloverWorks
+1077,Anime Series 77,1979,114,Sports,6.9,414675,J.C.Staff
+1078,Anime Series 78,1987,126,Romance,6.71,430659,Bones
+1079,Anime Series 79,2006,38,Sports,6.51,440532,J.C.Staff
+1080,Anime Series 80,2019,26,Fantasy,7.15,232203,Gainax
+1081,Anime Series 81,1966,75,Adventure,7.37,200558,Toei Animation
+1082,Anime Series 82,2003,117,Horror,7.39,141949,Bones
+1083,Anime Series 83,2020,9,Fantasy,7.28,44553,A-1 Pictures
+1084,Anime Series 84,1967,99,Adventure,7.54,403138,Sunrise
+1085,Anime Series 85,2006,80,Drama,6.82,389922,J.C.Staff
+1086,Anime Series 86,1994,67,Sports,6.3,384162,Gainax
+1087,Anime Series 87,1973,99,Drama,6.23,140758,Bones
+1088,Anime Series 88,1976,100,Supernatural,7.78,37766,Toei Animation
+1089,Anime Series 89,1995,60,Supernatural,7.38,478159,MAPPA
+1090,Anime Series 90,2009,142,Supernatural,5.52,299150,Other Studio
+1091,Anime Series 91,1999,136,Drama,7.88,36422,White Fox
+1092,Anime Series 92,1963,36,Adventure,8.5,383734,A-1 Pictures
+1093,Anime Series 93,1961,45,Supernatural,6.43,279349,Kyoto Animation
+1094,Anime Series 94,2021,41,Romance,7.27,484806,Bones
+1095,Anime Series 95,1965,11,Mystery,6.62,159599,Kyoto Animation
+1096,Anime Series 96,2013,71,Adventure,7.5,247555,Madhouse
+1097,Anime Series 97,2001,80,Supernatural,6.07,416659,CloverWorks
+1098,Anime Series 98,1963,9,Sci-Fi,6.94,414740,Other Studio
+1099,Anime Series 99,2013,84,Comedy,7.79,383621,Sunrise
+1100,Anime Series 100,1988,139,Comedy,7.99,33202,Bones
+1101,Anime Series 101,2022,123,Fantasy,7.34,463768,Studio Pierrot
+1102,Anime Series 102,1977,118,Comedy,6.73,444358,Toei Animation
+1103,Anime Series 103,1985,99,Adventure,5.73,328836,White Fox
+1104,Anime Series 104,2003,67,Slice of Life,6.39,218456,Trigger
+1105,Anime Series 105,1993,84,Sports,6.62,25855,Trigger
+1106,Anime Series 106,1969,141,Adventure,6.44,481963,J.C.Staff
+1107,Anime Series 107,2021,31,Mystery,7.05,196444,Wit Studio
+1108,Anime Series 108,1995,49,Adventure,6.73,292239,Studio Pierrot
+1109,Anime Series 109,1973,138,Horror,7.14,436940,Madhouse
+1110,Anime Series 110,1990,75,Sports,7.96,316385,Sunrise
+1111,Anime Series 111,2007,123,Sci-Fi,6.67,108119,MAPPA
+1112,Anime Series 112,1974,73,Comedy,5.89,57003,A-1 Pictures
+1113,Anime Series 113,1967,24,Sports,6.44,466595,Kyoto Animation
+1114,Anime Series 114,1973,25,Comedy,7.47,99837,Madhouse
+1115,Anime Series 115,1982,118,Fantasy,7.54,228068,J.C.Staff
+1116,Anime Series 116,2019,145,Sports,7.32,495670,A-1 Pictures
+1117,Anime Series 117,2016,52,Supernatural,8.04,361427,Trigger
+1118,Anime Series 118,2021,6,Comedy,6.85,414188,Gainax
+1119,Anime Series 119,1999,95,Sci-Fi,8.64,128805,MAPPA
+1120,Anime Series 120,1980,147,Supernatural,7.65,360990,J.C.Staff
+1121,Anime Series 121,1975,69,Action,4.98,290071,Toei Animation
+1122,Anime Series 122,2004,43,Drama,8.44,387733,Gainax
+1123,Anime Series 123,1977,42,Drama,6.39,120657,Kyoto Animation
+1124,Anime Series 124,2006,131,Sci-Fi,6.17,333774,Wit Studio
+1125,Anime Series 125,2012,144,Horror,7.42,109428,Studio Pierrot
+1126,Anime Series 126,1983,105,Action,5.61,127035,White Fox
+1127,Anime Series 127,1985,82,Fantasy,6.44,450563,Bones
+1128,Anime Series 128,1984,8,Sci-Fi,8.25,235780,Gainax
+1129,Anime Series 129,2019,139,Supernatural,7.44,393388,Madhouse
+1130,Anime Series 130,2019,15,Drama,7.65,487076,CloverWorks
+1131,Anime Series 131,2019,10,Drama,6.47,222282,Bones
+1132,Anime Series 132,2004,143,Drama,5.77,74518,Wit Studio
+1133,Anime Series 133,2000,135,Supernatural,7.57,181355,A-1 Pictures
+1134,Anime Series 134,1988,18,Romance,7.74,348470,Trigger
+1135,Anime Series 135,1974,135,Sci-Fi,7.71,148277,Gainax
+1136,Anime Series 136,2004,89,Adventure,7.17,125243,Bones
+1137,Anime Series 137,1960,70,Fantasy,6.23,488090,Studio Pierrot
+1138,Anime Series 138,1984,68,Drama,8.95,279892,Other Studio
+1139,Anime Series 139,1966,106,Comedy,7.38,419313,Production I.G
+1140,Anime Series 140,1968,78,Sci-Fi,6.86,401308,A-1 Pictures
+1141,Anime Series 141,1983,22,Mystery,6.86,58311,Kyoto Animation
+1142,Anime Series 142,1960,14,Supernatural,7.12,27692,J.C.Staff
+1143,Anime Series 143,2003,148,Romance,7.86,129954,Gainax
+1144,Anime Series 144,1967,43,Sci-Fi,7.15,159934,Wit Studio
+1145,Anime Series 145,1983,99,Fantasy,7.69,397179,Kyoto Animation
+1146,Anime Series 146,2022,100,Romance,7.12,226468,Bones
+1147,Anime Series 147,1970,54,Fantasy,6.91,346651,Sunrise
+1148,Anime Series 148,2010,74,Sci-Fi,7.51,85152,Other Studio
+1149,Anime Series 149,1976,67,Adventure,7.48,468685,Other Studio
+1150,Anime Series 150,1967,83,Mystery,6.86,9926,A-1 Pictures
+1151,Anime Series 151,1994,122,Fantasy,6.4,489515,Wit Studio
+1152,Anime Series 152,1994,125,Romance,7.27,8969,J.C.Staff
+1153,Anime Series 153,1992,142,Romance,7.06,40733,MAPPA
+1154,Anime Series 154,2018,81,Fantasy,6.56,336999,Trigger
+1155,Anime Series 155,1964,40,Slice of Life,6.33,46743,Toei Animation
+1156,Anime Series 156,2001,6,Sci-Fi,7.33,135193,Trigger
+1157,Anime Series 157,1998,45,Slice of Life,7.44,175948,White Fox
+1158,Anime Series 158,2017,69,Horror,6.71,374589,Kyoto Animation
+1159,Anime Series 159,2000,65,Sci-Fi,6.54,25323,Kyoto Animation
+1160,Anime Series 160,1987,69,Fantasy,6.34,283572,A-1 Pictures
+1161,Anime Series 161,1966,98,Action,7.31,39578,Sunrise
+1162,Anime Series 162,1968,77,Fantasy,6.36,91486,Bones
+1163,Anime Series 163,1967,16,Slice of Life,8.79,331284,Wit Studio
+1164,Anime Series 164,1971,110,Adventure,6.67,262450,Bones
+1165,Anime Series 165,1993,19,Fantasy,5.06,112325,A-1 Pictures
+1166,Anime Series 166,1992,65,Fantasy,6.98,350973,Trigger
+1167,Anime Series 167,2007,35,Adventure,6.94,273508,Kyoto Animation
+1168,Anime Series 168,2014,40,Fantasy,7.89,396011,J.C.Staff
+1169,Anime Series 169,1982,10,Drama,7.23,433565,Wit Studio
+1170,Anime Series 170,2021,88,Action,6.33,136763,Toei Animation
+1171,Anime Series 171,1983,128,Comedy,6.77,262971,Wit Studio
+1172,Anime Series 172,1996,83,Action,7.26,100598,Other Studio
+1173,Anime Series 173,1994,67,Supernatural,5.27,202539,A-1 Pictures
+1174,Anime Series 174,2003,137,Mystery,8.07,181968,J.C.Staff
+1175,Anime Series 175,1999,94,Fantasy,6.34,62062,CloverWorks
+1176,Anime Series 176,1981,47,Drama,8.13,233338,J.C.Staff
+1177,Anime Series 177,1986,94,Sci-Fi,7.31,215834,MAPPA
+1178,Anime Series 178,1994,45,Fantasy,7.5,149933,Wit Studio
+1179,Anime Series 179,1960,77,Slice of Life,7.92,232909,Wit Studio
+1180,Anime Series 180,1994,44,Drama,7.46,93302,Studio Pierrot
+1181,Anime Series 181,1996,109,Adventure,7.54,499926,Production I.G
+1182,Anime Series 182,2006,19,Drama,6.87,68928,Toei Animation
+1183,Anime Series 183,1973,37,Supernatural,7.3,219303,Madhouse
+1184,Anime Series 184,1962,130,Adventure,6.53,46347,White Fox
+1185,Anime Series 185,1960,102,Horror,6.73,8121,Sunrise
+1186,Anime Series 186,1964,28,Comedy,8.57,88793,Production I.G
+1187,Anime Series 187,1985,68,Sports,6.35,33164,MAPPA
+1188,Anime Series 188,2014,148,Drama,7.12,292635,Wit Studio
+1189,Anime Series 189,2022,58,Romance,7.09,64222,White Fox
+1190,Anime Series 190,1973,109,Slice of Life,6.75,159237,Toei Animation
+1191,Anime Series 191,1998,109,Fantasy,7.41,8748,Bones
+1192,Anime Series 192,1986,44,Slice of Life,7.47,496797,Other Studio
+1193,Anime Series 193,1968,139,Action,6.26,31553,Production I.G
+1194,Anime Series 194,1974,72,Sports,7.08,121547,Other Studio
+1195,Anime Series 195,1974,140,Action,6.13,65380,Other Studio
+1196,Anime Series 196,1985,47,Horror,7.63,49331,Bones
+1197,Anime Series 197,2001,20,Sports,7.14,232105,Sunrise
+1198,Anime Series 198,2019,116,Sports,7.07,495060,White Fox
+1199,Anime Series 199,1972,38,Action,7.53,125617,Gainax
+1200,Anime Series 200,2010,43,Adventure,6.78,306704,Bones
+1201,Anime Series 201,2022,102,Supernatural,7.73,321009,Sunrise
+1202,Anime Series 202,1991,38,Action,6.24,444902,Gainax
+1203,Anime Series 203,1998,91,Slice of Life,8.13,80910,White Fox
+1204,Anime Series 204,2008,71,Adventure,6.56,402891,Other Studio
+1205,Anime Series 205,2011,15,Slice of Life,5.64,464922,Trigger
+1206,Anime Series 206,2020,10,Supernatural,6.74,345130,Trigger
+1207,Anime Series 207,1991,128,Horror,6.65,212288,White Fox
+1208,Anime Series 208,1963,79,Fantasy,6.73,15068,White Fox
+1209,Anime Series 209,1989,102,Supernatural,7.19,59460,Toei Animation
+1210,Anime Series 210,1996,123,Mystery,7.88,367910,CloverWorks
+1211,Anime Series 211,1982,43,Sci-Fi,6.85,51418,Kyoto Animation
+1212,Anime Series 212,1998,146,Adventure,6.45,293350,Sunrise
+1213,Anime Series 213,2004,52,Horror,6.1,133180,J.C.Staff
+1214,Anime Series 214,1974,114,Mystery,6.63,267431,Madhouse
+1215,Anime Series 215,2002,20,Romance,5.49,27337,Madhouse
+1216,Anime Series 216,1988,141,Horror,6.42,156738,A-1 Pictures
+1217,Anime Series 217,1995,10,Action,8.0,252667,Gainax
+1218,Anime Series 218,1972,52,Action,6.34,137233,Madhouse
+1219,Anime Series 219,1991,73,Supernatural,7.5,367811,White Fox
+1220,Anime Series 220,1966,81,Sci-Fi,6.02,357215,White Fox
+1221,Anime Series 221,2018,135,Horror,8.42,103064,A-1 Pictures
+1222,Anime Series 222,2010,100,Comedy,8.47,436967,Wit Studio
+1223,Anime Series 223,1981,120,Fantasy,7.47,480279,White Fox
+1224,Anime Series 224,1987,41,Supernatural,8.59,373655,Madhouse
+1225,Anime Series 225,1961,31,Action,7.28,487605,Sunrise
+1226,Anime Series 226,2001,48,Sci-Fi,7.61,412974,J.C.Staff
+1227,Anime Series 227,2004,32,Fantasy,8.01,463996,Kyoto Animation
+1228,Anime Series 228,2021,74,Horror,7.14,251686,White Fox
+1229,Anime Series 229,2016,16,Horror,5.76,8178,Bones
+1230,Anime Series 230,2012,79,Sports,7.63,36831,Gainax
+1231,Anime Series 231,1965,109,Sci-Fi,6.62,138248,White Fox
+1232,Anime Series 232,1987,43,Mystery,6.68,108306,Trigger
+1233,Anime Series 233,1987,139,Action,7.24,169726,MAPPA
+1234,Anime Series 234,2003,28,Comedy,7.45,259292,Madhouse
+1235,Anime Series 235,2003,52,Horror,7.12,424843,Kyoto Animation
+1236,Anime Series 236,1979,95,Comedy,7.51,188622,Kyoto Animation
+1237,Anime Series 237,1989,51,Horror,6.43,379169,Other Studio
+1238,Anime Series 238,2021,112,Action,6.97,180982,Trigger
+1239,Anime Series 239,1970,145,Fantasy,7.68,95417,Other Studio
+1240,Anime Series 240,2023,146,Drama,8.42,194323,Other Studio
+1241,Anime Series 241,2017,109,Fantasy,8.7,433638,Gainax
+1242,Anime Series 242,2014,116,Horror,7.35,16984,Sunrise
+1243,Anime Series 243,1987,109,Slice of Life,7.67,94312,Toei Animation
+1244,Anime Series 244,1984,65,Drama,8.59,197458,Trigger
+1245,Anime Series 245,1998,105,Mystery,6.46,88291,Toei Animation
+1246,Anime Series 246,2021,73,Drama,7.5,274279,Madhouse
+1247,Anime Series 247,1992,138,Comedy,7.61,5320,Gainax
+1248,Anime Series 248,1960,125,Sci-Fi,8.16,492387,White Fox
+1249,Anime Series 249,2016,42,Comedy,6.09,157756,CloverWorks
+1250,Anime Series 250,1986,77,Supernatural,6.25,454129,Gainax
+1251,Anime Series 251,2021,132,Comedy,7.02,355918,MAPPA
+1252,Anime Series 252,2016,111,Mystery,7.3,420105,Trigger
+1253,Anime Series 253,2011,97,Slice of Life,7.9,231921,Madhouse
+1254,Anime Series 254,1972,36,Fantasy,7.41,365215,Madhouse
+1255,Anime Series 255,2000,127,Fantasy,6.88,184971,A-1 Pictures
+1256,Anime Series 256,1962,142,Romance,7.33,260083,J.C.Staff
+1257,Anime Series 257,1998,56,Horror,7.24,408986,Trigger
+1258,Anime Series 258,1965,34,Slice of Life,8.4,437537,J.C.Staff
+1259,Anime Series 259,1967,45,Romance,7.13,484178,White Fox
+1260,Anime Series 260,1986,46,Supernatural,6.69,114863,Other Studio
+1261,Anime Series 261,1968,16,Action,7.36,46777,Trigger
+1262,Anime Series 262,2021,6,Horror,7.16,51250,MAPPA
+1263,Anime Series 263,1996,51,Horror,5.74,340178,A-1 Pictures
+1264,Anime Series 264,1992,106,Sports,6.99,372084,Gainax
+1265,Anime Series 265,2010,95,Sports,6.92,307274,Kyoto Animation
+1266,Anime Series 266,2001,115,Adventure,6.56,480147,Wit Studio
+1267,Anime Series 267,2003,62,Adventure,7.83,185418,A-1 Pictures
+1268,Anime Series 268,1983,6,Comedy,6.37,400753,Madhouse
+1269,Anime Series 269,1974,68,Action,7.36,220834,Toei Animation
+1270,Anime Series 270,2018,60,Drama,6.88,20216,Production I.G
+1271,Anime Series 271,2013,120,Drama,7.09,351293,Gainax
+1272,Anime Series 272,1991,148,Sports,7.33,8009,MAPPA
+1273,Anime Series 273,1991,58,Sports,5.95,357048,Kyoto Animation
+1274,Anime Series 274,1983,142,Sports,7.15,165399,Gainax
+1275,Anime Series 275,2000,62,Slice of Life,8.83,150281,Trigger
+1276,Anime Series 276,2011,122,Sci-Fi,5.75,184515,Sunrise
+1277,Anime Series 277,2008,40,Adventure,6.95,20029,Production I.G
+1278,Anime Series 278,2021,68,Slice of Life,7.9,465829,Trigger
+1279,Anime Series 279,2008,30,Fantasy,7.24,215515,Production I.G
+1280,Anime Series 280,2017,95,Drama,7.55,193069,A-1 Pictures
+1281,Anime Series 281,2011,80,Supernatural,5.1,369315,Bones
+1282,Anime Series 282,1971,43,Mystery,7.48,119456,Production I.G
+1283,Anime Series 283,2021,135,Horror,6.39,329703,Other Studio
+1284,Anime Series 284,1998,140,Adventure,7.25,332036,Madhouse
+1285,Anime Series 285,1961,96,Romance,6.98,337553,Studio Pierrot
+1286,Anime Series 286,1962,22,Fantasy,8.82,406851,Other Studio
+1287,Anime Series 287,2008,133,Supernatural,7.44,300209,Toei Animation
+1288,Anime Series 288,1996,113,Adventure,6.91,247471,Wit Studio
+1289,Anime Series 289,2008,30,Mystery,5.79,387688,Toei Animation
+1290,Anime Series 290,2015,93,Slice of Life,7.1,374484,Other Studio
+1291,Anime Series 291,1976,34,Action,7.66,38783,Studio Pierrot
+1292,Anime Series 292,2018,68,Horror,6.94,39152,J.C.Staff
+1293,Anime Series 293,2008,119,Adventure,6.6,63741,Madhouse
+1294,Anime Series 294,1961,54,Sci-Fi,6.54,374193,Sunrise
+1295,Anime Series 295,1961,86,Sports,7.43,449718,Production I.G
+1296,Anime Series 296,1987,89,Sports,7.61,34092,J.C.Staff
+1297,Anime Series 297,2013,110,Horror,8.09,153725,Madhouse
+1298,Anime Series 298,1982,123,Mystery,6.2,496215,Gainax
+1299,Anime Series 299,1996,91,Supernatural,7.42,235636,A-1 Pictures
+1300,Anime Series 300,1991,68,Slice of Life,6.9,176541,Toei Animation
+1301,Anime Series 301,1992,109,Sports,6.93,259136,J.C.Staff
+1302,Anime Series 302,1960,54,Adventure,7.32,353627,MAPPA
+1303,Anime Series 303,1978,76,Romance,7.33,388729,Production I.G
+1304,Anime Series 304,2021,6,Drama,7.42,326898,Production I.G
+1305,Anime Series 305,1961,146,Drama,6.15,166050,Sunrise
+1306,Anime Series 306,2012,128,Fantasy,6.4,92592,Other Studio
+1307,Anime Series 307,2003,67,Supernatural,8.19,361687,Other Studio
+1308,Anime Series 308,1985,37,Comedy,6.82,48169,Bones
+1309,Anime Series 309,1991,34,Action,7.24,446503,MAPPA
+1310,Anime Series 310,1965,54,Horror,7.84,59745,Production I.G
+1311,Anime Series 311,1991,35,Fantasy,7.37,115168,Kyoto Animation
+1312,Anime Series 312,2014,149,Comedy,7.44,118985,MAPPA
+1313,Anime Series 313,1963,24,Slice of Life,7.72,272687,Production I.G
+1314,Anime Series 314,2014,23,Sci-Fi,5.31,192464,Studio Pierrot
+1315,Anime Series 315,1970,6,Sci-Fi,6.61,26067,MAPPA
+1316,Anime Series 316,2015,83,Action,7.37,56033,Madhouse
+1317,Anime Series 317,2018,120,Supernatural,8.11,50256,MAPPA
+1318,Anime Series 318,1976,118,Sports,7.05,226705,Wit Studio
+1319,Anime Series 319,2022,119,Adventure,6.32,244455,Sunrise
+1320,Anime Series 320,1997,68,Fantasy,6.35,205417,A-1 Pictures
+1321,Anime Series 321,1983,137,Fantasy,7.71,420407,Other Studio
+1322,Anime Series 322,1964,134,Horror,6.83,91803,A-1 Pictures
+1323,Anime Series 323,2011,13,Horror,6.99,208814,A-1 Pictures
+1324,Anime Series 324,1993,60,Sci-Fi,7.49,123843,Madhouse
+1325,Anime Series 325,1965,108,Sci-Fi,4.68,484809,J.C.Staff
+1326,Anime Series 326,1981,136,Supernatural,8.6,33992,Trigger
+1327,Anime Series 327,1970,37,Mystery,6.42,217603,A-1 Pictures
+1328,Anime Series 328,2022,15,Romance,7.19,53803,Wit Studio
+1329,Anime Series 329,2007,115,Romance,5.64,377119,Gainax
+1330,Anime Series 330,1975,129,Mystery,6.66,199549,Toei Animation
+1331,Anime Series 331,1992,92,Sports,8.0,149282,Madhouse
+1332,Anime Series 332,1968,60,Romance,5.47,481545,J.C.Staff
+1333,Anime Series 333,2019,37,Supernatural,7.9,31270,Toei Animation
+1334,Anime Series 334,2018,140,Adventure,6.78,460224,White Fox
+1335,Anime Series 335,1965,98,Adventure,7.39,403413,Toei Animation
+1336,Anime Series 336,1975,13,Fantasy,7.53,249929,Toei Animation
+1337,Anime Series 337,1988,70,Drama,7.35,12452,Kyoto Animation
+1338,Anime Series 338,1962,62,Mystery,6.31,308630,Sunrise
+1339,Anime Series 339,1979,72,Adventure,6.71,19859,Sunrise
+1340,Anime Series 340,2019,77,Comedy,5.83,425452,Trigger
+1341,Anime Series 341,2018,59,Sci-Fi,7.39,430115,Madhouse
+1342,Anime Series 342,1995,72,Horror,8.36,37083,Wit Studio
+1343,Anime Series 343,1978,56,Supernatural,5.54,334852,Wit Studio
+1344,Anime Series 344,1985,102,Romance,6.39,116462,Wit Studio
+1345,Anime Series 345,1962,97,Mystery,6.85,152735,Other Studio
+1346,Anime Series 346,2022,13,Fantasy,7.14,360220,Toei Animation
+1347,Anime Series 347,1978,40,Action,7.7,254737,CloverWorks
+1348,Anime Series 348,1979,101,Horror,6.88,286197,Studio Pierrot
+1349,Anime Series 349,1991,93,Comedy,6.75,147157,MAPPA
+1350,Anime Series 350,1966,83,Romance,7.88,428780,J.C.Staff
+1351,Anime Series 351,2011,37,Comedy,7.53,356889,Sunrise
+1352,Anime Series 352,2000,125,Sci-Fi,7.43,195167,CloverWorks
+1353,Anime Series 353,1992,51,Sci-Fi,7.09,74517,A-1 Pictures
+1354,Anime Series 354,1999,149,Supernatural,7.79,157225,Gainax
+1355,Anime Series 355,2023,147,Sports,6.47,141319,Other Studio
+1356,Anime Series 356,1998,60,Fantasy,6.37,408769,Madhouse
+1357,Anime Series 357,1977,12,Horror,7.6,419027,J.C.Staff
+1358,Anime Series 358,1999,79,Slice of Life,5.7,231453,Madhouse
+1359,Anime Series 359,1960,12,Slice of Life,7.07,404351,Studio Pierrot
+1360,Anime Series 360,1970,90,Horror,6.75,141645,Kyoto Animation
+1361,Anime Series 361,1987,117,Action,5.88,84267,Kyoto Animation
+1362,Anime Series 362,2016,130,Supernatural,6.25,143261,Toei Animation
+1363,Anime Series 363,1984,41,Fantasy,6.91,347221,Trigger
+1364,Anime Series 364,2009,34,Comedy,7.83,441862,Kyoto Animation
+1365,Anime Series 365,1982,87,Action,6.48,343767,Madhouse
+1366,Anime Series 366,1990,7,Drama,7.97,136004,A-1 Pictures
+1367,Anime Series 367,1989,134,Horror,7.05,58687,Trigger
+1368,Anime Series 368,2001,52,Comedy,8.05,335456,Toei Animation
+1369,Anime Series 369,1994,16,Slice of Life,6.52,112615,Production I.G
+1370,Anime Series 370,1966,135,Adventure,6.96,398120,Wit Studio
+1371,Anime Series 371,2019,124,Mystery,7.29,32564,J.C.Staff
+1372,Anime Series 372,1975,145,Sports,6.86,295979,Trigger
+1373,Anime Series 373,1985,25,Slice of Life,7.76,459803,Studio Pierrot
+1374,Anime Series 374,2007,10,Fantasy,5.23,12697,Toei Animation
+1375,Anime Series 375,2016,42,Sci-Fi,8.94,85165,White Fox
+1376,Anime Series 376,2011,142,Mystery,7.69,209994,Madhouse
+1377,Anime Series 377,2019,58,Mystery,6.86,415262,J.C.Staff
+1378,Anime Series 378,2008,104,Adventure,6.56,62823,A-1 Pictures
+1379,Anime Series 379,1961,91,Sports,6.31,471796,Bones
+1380,Anime Series 380,1960,113,Sports,7.52,451586,Gainax
+1381,Anime Series 381,2007,29,Drama,7.8,14615,Studio Pierrot
+1382,Anime Series 382,2021,86,Drama,6.87,403276,Madhouse
+1383,Anime Series 383,1971,125,Romance,7.89,397643,Studio Pierrot
+1384,Anime Series 384,1964,64,Slice of Life,6.27,81436,Sunrise
+1385,Anime Series 385,1996,133,Slice of Life,6.13,196591,Bones
+1386,Anime Series 386,1991,119,Slice of Life,8.45,387706,J.C.Staff
+1387,Anime Series 387,2018,120,Romance,7.47,338261,Kyoto Animation
+1388,Anime Series 388,2014,19,Supernatural,8.12,459374,Madhouse
+1389,Anime Series 389,1968,14,Action,6.32,39782,Studio Pierrot
+1390,Anime Series 390,2000,45,Sports,6.26,483925,J.C.Staff
+1391,Anime Series 391,1994,30,Adventure,6.71,83533,Kyoto Animation
+1392,Anime Series 392,1978,108,Fantasy,6.34,245011,A-1 Pictures
+1393,Anime Series 393,2007,27,Sports,7.56,194327,A-1 Pictures
+1394,Anime Series 394,1975,9,Drama,6.4,77684,Studio Pierrot
+1395,Anime Series 395,1962,34,Mystery,6.06,455134,Toei Animation
+1396,Anime Series 396,1979,114,Comedy,7.11,262165,Sunrise
+1397,Anime Series 397,1983,103,Sci-Fi,5.97,220356,Gainax
+1398,Anime Series 398,2013,42,Romance,5.56,346702,Toei Animation
+1399,Anime Series 399,2015,80,Horror,7.11,221621,Sunrise
+1400,Anime Series 400,1992,75,Comedy,5.6,240295,Madhouse
+1401,Anime Series 401,1983,133,Fantasy,7.62,348566,Wit Studio
+1402,Anime Series 402,2011,90,Slice of Life,5.88,256435,Trigger
+1403,Anime Series 403,1970,47,Drama,5.21,262424,Production I.G
+1404,Anime Series 404,2008,105,Drama,6.76,423472,Studio Pierrot
+1405,Anime Series 405,1967,46,Drama,7.12,428221,Gainax
+1406,Anime Series 406,1995,39,Slice of Life,7.39,273782,MAPPA
+1407,Anime Series 407,1997,22,Horror,7.14,304563,Wit Studio
+1408,Anime Series 408,1999,127,Romance,6.15,38377,White Fox
+1409,Anime Series 409,1979,81,Comedy,7.57,111244,CloverWorks
+1410,Anime Series 410,2021,92,Slice of Life,7.77,179188,Studio Pierrot
+1411,Anime Series 411,1994,122,Fantasy,6.04,434850,Bones
+1412,Anime Series 412,2007,111,Romance,6.86,218363,Kyoto Animation
+1413,Anime Series 413,2021,91,Fantasy,6.78,28382,Bones
+1414,Anime Series 414,1984,32,Romance,7.18,251375,A-1 Pictures
+1415,Anime Series 415,1994,62,Horror,6.84,192135,Other Studio
+1416,Anime Series 416,1984,36,Sci-Fi,6.95,158466,Sunrise
+1417,Anime Series 417,1988,139,Fantasy,7.51,334933,Kyoto Animation
+1418,Anime Series 418,1977,103,Slice of Life,6.11,239318,Wit Studio
+1419,Anime Series 419,2023,17,Romance,7.59,377778,A-1 Pictures
+1420,Anime Series 420,2005,58,Drama,7.91,136936,Kyoto Animation
+1421,Anime Series 421,1977,143,Supernatural,8.31,366716,Toei Animation
+1422,Anime Series 422,1961,127,Sports,5.29,438438,A-1 Pictures
+1423,Anime Series 423,2013,51,Drama,6.85,411882,Toei Animation
+1424,Anime Series 424,1994,69,Action,5.43,128664,Toei Animation
+1425,Anime Series 425,1975,135,Sci-Fi,5.05,157027,Kyoto Animation
+1426,Anime Series 426,2020,59,Sci-Fi,7.12,377818,Other Studio
+1427,Anime Series 427,2000,112,Drama,6.68,108533,White Fox
+1428,Anime Series 428,1995,56,Comedy,7.24,348989,J.C.Staff
+1429,Anime Series 429,1992,41,Horror,7.39,252997,Bones
+1430,Anime Series 430,1963,120,Fantasy,8.0,74590,A-1 Pictures
+1431,Anime Series 431,1992,31,Slice of Life,7.04,394919,White Fox
+1432,Anime Series 432,1973,34,Sci-Fi,9.34,333615,MAPPA
+1433,Anime Series 433,1980,16,Drama,7.25,486530,J.C.Staff
+1434,Anime Series 434,2007,45,Drama,8.47,310442,CloverWorks
+1435,Anime Series 435,1979,16,Horror,5.13,461324,Bones
+1436,Anime Series 436,2015,118,Horror,8.08,249936,Gainax
+1437,Anime Series 437,2023,44,Adventure,6.86,53924,Gainax
+1438,Anime Series 438,1967,59,Adventure,5.44,414925,Trigger
+1439,Anime Series 439,1966,103,Comedy,7.34,14726,A-1 Pictures
+1440,Anime Series 440,1962,60,Supernatural,6.76,196896,Wit Studio
+1441,Anime Series 441,1976,116,Supernatural,7.46,45542,Sunrise
+1442,Anime Series 442,2023,74,Comedy,7.81,418461,Gainax
+1443,Anime Series 443,1992,61,Action,5.81,39753,Trigger
+1444,Anime Series 444,2007,38,Comedy,7.81,346932,Bones
+1445,Anime Series 445,1971,41,Romance,7.01,288460,MAPPA
+1446,Anime Series 446,2018,86,Horror,8.08,238979,Studio Pierrot
+1447,Anime Series 447,2010,114,Supernatural,6.84,89698,Madhouse
+1448,Anime Series 448,1981,78,Slice of Life,6.62,283104,Toei Animation
+1449,Anime Series 449,2014,45,Romance,7.02,35791,White Fox
+1450,Anime Series 450,1981,22,Fantasy,7.08,292360,Gainax
+1451,Anime Series 451,2005,134,Drama,6.47,430683,Other Studio
+1452,Anime Series 452,1989,66,Comedy,6.6,331571,Madhouse
+1453,Anime Series 453,1997,109,Drama,6.02,379614,J.C.Staff
+1454,Anime Series 454,1997,47,Sci-Fi,6.65,460263,Studio Pierrot
+1455,Anime Series 455,2004,30,Action,7.54,78290,Toei Animation
+1456,Anime Series 456,2010,44,Sci-Fi,6.89,52014,A-1 Pictures
+1457,Anime Series 457,2013,40,Action,7.81,140150,Gainax
+1458,Anime Series 458,1967,136,Adventure,6.85,476605,J.C.Staff
+1459,Anime Series 459,1986,113,Drama,5.85,55519,MAPPA
+1460,Anime Series 460,1986,107,Action,7.48,271186,White Fox
+1461,Anime Series 461,1993,103,Mystery,6.46,54052,Gainax
+1462,Anime Series 462,1980,17,Supernatural,6.81,19389,Kyoto Animation
+1463,Anime Series 463,1989,24,Mystery,7.99,363105,A-1 Pictures
+1464,Anime Series 464,1992,106,Mystery,6.07,73111,Bones
+1465,Anime Series 465,1987,49,Sports,7.13,372202,Kyoto Animation
+1466,Anime Series 466,2006,54,Supernatural,6.97,360859,J.C.Staff
+1467,Anime Series 467,2023,22,Romance,7.56,317877,Bones
+1468,Anime Series 468,1992,79,Action,7.68,301898,MAPPA
+1469,Anime Series 469,1964,62,Action,7.21,416840,CloverWorks
+1470,Anime Series 470,2019,60,Romance,6.71,353030,Madhouse
+1471,Anime Series 471,2020,52,Drama,7.38,162753,Bones
+1472,Anime Series 472,2007,17,Drama,8.07,94524,Madhouse
+1473,Anime Series 473,1978,67,Mystery,6.98,348150,Trigger
+1474,Anime Series 474,1963,85,Romance,6.79,291848,Toei Animation
+1475,Anime Series 475,1994,88,Supernatural,7.31,99913,Sunrise
+1476,Anime Series 476,2023,13,Mystery,7.03,99108,Production I.G
+1477,Anime Series 477,2008,86,Sci-Fi,5.93,259803,Trigger
+1478,Anime Series 478,2023,123,Sports,7.19,274637,A-1 Pictures
+1479,Anime Series 479,1976,30,Slice of Life,5.92,74639,Production I.G
+1480,Anime Series 480,2003,94,Fantasy,7.3,236452,Toei Animation
+1481,Anime Series 481,1987,17,Sports,6.36,321527,Bones
+1482,Anime Series 482,1989,148,Drama,7.03,139066,Toei Animation
+1483,Anime Series 483,1988,64,Slice of Life,7.31,205352,Wit Studio
+1484,Anime Series 484,2005,114,Adventure,8.96,314378,Production I.G
+1485,Anime Series 485,2012,31,Comedy,7.59,445507,Production I.G
+1486,Anime Series 486,1965,52,Mystery,8.09,133674,Other Studio
+1487,Anime Series 487,1994,37,Action,8.5,491084,CloverWorks
+1488,Anime Series 488,2019,15,Romance,7.39,10594,Wit Studio
+1489,Anime Series 489,2000,21,Romance,7.23,241907,Trigger
+1490,Anime Series 490,1996,31,Action,6.15,274515,A-1 Pictures
+1491,Anime Series 491,1983,91,Mystery,6.91,52315,Kyoto Animation
+1492,Anime Series 492,1988,140,Comedy,6.42,219636,Studio Pierrot
+1493,Anime Series 493,2008,19,Fantasy,6.68,132251,Other Studio
+1494,Anime Series 494,2005,84,Comedy,8.5,237520,CloverWorks
+1495,Anime Series 495,2012,122,Slice of Life,7.09,84526,Toei Animation
+1496,Anime Series 496,1990,12,Comedy,6.3,248459,Sunrise
+1497,Anime Series 497,1994,142,Slice of Life,8.1,152698,Studio Pierrot
+1498,Anime Series 498,2019,120,Comedy,7.76,353149,Other Studio
+1499,Anime Series 499,1992,77,Fantasy,7.81,242330,Wit Studio
+1500,Anime Series 500,2011,64,Fantasy,5.4,110573,Toei Animation
+1501,Anime Series 501,2022,87,Drama,8.56,405346,MAPPA
+1502,Anime Series 502,2020,121,Action,6.55,142900,Wit Studio
+1503,Anime Series 503,1980,108,Fantasy,7.62,324658,J.C.Staff
+1504,Anime Series 504,1991,22,Slice of Life,9.02,240707,J.C.Staff
+1505,Anime Series 505,1982,19,Fantasy,8.72,188736,CloverWorks
+1506,Anime Series 506,1992,113,Drama,6.22,153955,Production I.G
+1507,Anime Series 507,2023,50,Romance,5.84,179131,J.C.Staff
+1508,Anime Series 508,1962,103,Slice of Life,8.14,482294,CloverWorks
+1509,Anime Series 509,2023,136,Drama,7.11,179004,White Fox
+1510,Anime Series 510,1977,42,Sci-Fi,6.6,459485,Madhouse
+1511,Anime Series 511,1984,113,Sci-Fi,7.5,343130,Gainax
+1512,Anime Series 512,2001,44,Adventure,6.87,353103,Trigger
+1513,Anime Series 513,1990,20,Comedy,7.56,269179,Sunrise
+1514,Anime Series 514,2013,125,Action,7.05,114767,Gainax
+1515,Anime Series 515,2017,9,Horror,7.58,438961,Gainax
+1516,Anime Series 516,1962,98,Sports,6.28,22241,Other Studio
+1517,Anime Series 517,1999,146,Drama,8.14,57975,J.C.Staff
+1518,Anime Series 518,2005,21,Romance,7.56,159226,Other Studio
+1519,Anime Series 519,1983,113,Sports,7.52,423841,Bones
+1520,Anime Series 520,2009,131,Romance,6.11,443166,Madhouse
+1521,Anime Series 521,1991,60,Supernatural,8.36,496818,Studio Pierrot
+1522,Anime Series 522,2006,39,Supernatural,6.99,61396,Madhouse
+1523,Anime Series 523,1981,18,Supernatural,7.58,497443,Trigger
+1524,Anime Series 524,1982,146,Sports,6.74,123920,Toei Animation
+1525,Anime Series 525,1961,23,Drama,7.21,411547,Production I.G
+1526,Anime Series 526,2022,101,Horror,7.24,199999,CloverWorks
+1527,Anime Series 527,1986,128,Sports,4.74,91226,A-1 Pictures
+1528,Anime Series 528,2001,44,Drama,7.47,89719,A-1 Pictures
+1529,Anime Series 529,1961,51,Fantasy,8.57,68014,Other Studio
+1530,Anime Series 530,1985,34,Horror,7.43,44346,MAPPA
+1531,Anime Series 531,1976,67,Supernatural,6.23,75411,Sunrise
+1532,Anime Series 532,1999,21,Slice of Life,7.52,190550,Toei Animation
+1533,Anime Series 533,1992,126,Romance,7.85,148326,A-1 Pictures
+1534,Anime Series 534,1968,15,Supernatural,7.41,191806,White Fox
+1535,Anime Series 535,2002,108,Sci-Fi,6.94,426837,Production I.G
+1536,Anime Series 536,2013,89,Comedy,6.81,343585,Studio Pierrot
+1537,Anime Series 537,2007,138,Sci-Fi,6.8,51121,A-1 Pictures
+1538,Anime Series 538,1998,70,Supernatural,7.56,217490,Bones
+1539,Anime Series 539,1988,8,Horror,5.87,327341,Madhouse
+1540,Anime Series 540,2001,147,Slice of Life,6.7,89577,A-1 Pictures
+1541,Anime Series 541,2014,125,Romance,8.28,361778,Trigger
+1542,Anime Series 542,1985,73,Slice of Life,8.31,254106,Toei Animation
+1543,Anime Series 543,1994,42,Sports,5.82,440647,J.C.Staff
+1544,Anime Series 544,2009,78,Romance,6.09,497461,J.C.Staff
+1545,Anime Series 545,1984,148,Supernatural,6.78,367355,Studio Pierrot
+1546,Anime Series 546,1983,54,Sports,7.71,140909,Trigger
+1547,Anime Series 547,1972,126,Drama,5.54,488241,J.C.Staff
+1548,Anime Series 548,2019,93,Horror,6.96,481379,White Fox
+1549,Anime Series 549,2017,145,Mystery,6.62,469448,CloverWorks
+1550,Anime Series 550,1966,42,Drama,8.06,447210,Wit Studio
+1551,Anime Series 551,2016,66,Adventure,5.66,477295,Studio Pierrot
+1552,Anime Series 552,1995,129,Slice of Life,7.07,410831,Toei Animation
+1553,Anime Series 553,2004,44,Mystery,6.69,6466,White Fox
+1554,Anime Series 554,1979,68,Sports,8.18,297915,Sunrise
+1555,Anime Series 555,1960,51,Fantasy,7.48,351030,Trigger
+1556,Anime Series 556,1967,93,Drama,6.53,333055,J.C.Staff
+1557,Anime Series 557,2023,16,Adventure,7.68,234638,Other Studio
+1558,Anime Series 558,2005,67,Action,6.69,418962,Wit Studio
+1559,Anime Series 559,1975,82,Mystery,7.8,93422,MAPPA
+1560,Anime Series 560,1973,57,Sci-Fi,6.81,458955,Production I.G
+1561,Anime Series 561,1971,9,Romance,7.84,496403,Trigger
+1562,Anime Series 562,2010,64,Adventure,7.35,340513,Madhouse
+1563,Anime Series 563,1982,77,Horror,9.5,269037,J.C.Staff
+1564,Anime Series 564,1974,98,Mystery,6.96,297717,Studio Pierrot
+1565,Anime Series 565,1987,68,Drama,7.31,101907,Toei Animation
+1566,Anime Series 566,1993,59,Horror,6.62,439090,Other Studio
+1567,Anime Series 567,1961,122,Sci-Fi,7.0,213434,J.C.Staff
+1568,Anime Series 568,1991,115,Fantasy,4.84,367100,A-1 Pictures
+1569,Anime Series 569,1982,79,Slice of Life,7.37,223532,J.C.Staff
+1570,Anime Series 570,2022,112,Slice of Life,8.07,263093,Other Studio
+1571,Anime Series 571,1981,62,Supernatural,7.32,385724,Gainax
+1572,Anime Series 572,2010,8,Horror,5.95,431583,Trigger
+1573,Anime Series 573,1984,125,Sports,6.36,157271,Studio Pierrot
+1574,Anime Series 574,2017,11,Fantasy,5.06,358548,Bones
+1575,Anime Series 575,2022,10,Slice of Life,7.78,210400,White Fox
+1576,Anime Series 576,2021,10,Fantasy,6.19,324868,Bones
+1577,Anime Series 577,2020,59,Adventure,6.98,353277,J.C.Staff
+1578,Anime Series 578,1981,52,Fantasy,6.88,172477,Trigger
+1579,Anime Series 579,2017,14,Comedy,8.19,234304,Madhouse
+1580,Anime Series 580,2017,104,Sci-Fi,7.07,20989,Toei Animation
+1581,Anime Series 581,1981,25,Slice of Life,7.65,296075,MAPPA
+1582,Anime Series 582,2008,127,Fantasy,7.44,276434,MAPPA
+1583,Anime Series 583,2011,66,Horror,8.09,436583,J.C.Staff
+1584,Anime Series 584,2001,128,Action,6.81,126136,J.C.Staff
+1585,Anime Series 585,1965,87,Comedy,8.5,347022,Bones
+1586,Anime Series 586,1974,67,Comedy,5.41,357621,Studio Pierrot
+1587,Anime Series 587,2013,8,Sports,7.69,477697,Other Studio
+1588,Anime Series 588,2002,18,Fantasy,6.31,212370,White Fox
+1589,Anime Series 589,2019,125,Supernatural,6.61,131299,Madhouse
+1590,Anime Series 590,1996,130,Sports,7.46,166205,Wit Studio
+1591,Anime Series 591,1992,94,Sports,7.45,248688,J.C.Staff
+1592,Anime Series 592,1967,78,Action,7.49,110686,MAPPA
+1593,Anime Series 593,2012,73,Adventure,5.89,425268,Toei Animation
+1594,Anime Series 594,2019,147,Fantasy,8.16,374430,Trigger
+1595,Anime Series 595,2003,106,Drama,6.28,483705,Gainax
+1596,Anime Series 596,2003,103,Slice of Life,6.39,307619,Sunrise
+1597,Anime Series 597,1964,16,Sports,7.51,87666,Other Studio
+1598,Anime Series 598,1998,110,Sci-Fi,6.77,363766,A-1 Pictures
+1599,Anime Series 599,1963,72,Romance,7.25,193728,J.C.Staff
+1600,Anime Series 600,1965,128,Sci-Fi,5.27,140705,Studio Pierrot
+1601,Anime Series 601,2004,34,Action,7.23,415520,J.C.Staff
+1602,Anime Series 602,1991,142,Action,7.17,112573,Studio Pierrot
+1603,Anime Series 603,2011,81,Horror,6.59,233892,Madhouse
+1604,Anime Series 604,1989,14,Adventure,5.34,313690,Gainax
+1605,Anime Series 605,2006,45,Supernatural,6.83,274152,Sunrise
+1606,Anime Series 606,1994,30,Slice of Life,6.97,315435,Production I.G
+1607,Anime Series 607,2014,10,Mystery,6.71,163477,Gainax
+1608,Anime Series 608,1999,144,Sports,5.53,253141,CloverWorks
+1609,Anime Series 609,2011,129,Sci-Fi,8.28,303530,Toei Animation
+1610,Anime Series 610,1975,43,Romance,6.49,95909,Toei Animation
+1611,Anime Series 611,1972,77,Action,6.82,156899,Studio Pierrot
+1612,Anime Series 612,2009,138,Action,5.07,300184,Bones
+1613,Anime Series 613,2019,95,Adventure,8.28,65354,White Fox
+1614,Anime Series 614,2001,42,Romance,6.63,345687,White Fox
+1615,Anime Series 615,1989,65,Romance,7.08,23157,Studio Pierrot
+1616,Anime Series 616,1978,33,Adventure,7.9,495909,Bones
+1617,Anime Series 617,1976,86,Action,6.46,40315,Other Studio
+1618,Anime Series 618,2015,119,Slice of Life,7.77,303076,CloverWorks
+1619,Anime Series 619,2022,45,Fantasy,5.35,419380,Kyoto Animation
+1620,Anime Series 620,1978,50,Fantasy,7.44,150486,Other Studio
+1621,Anime Series 621,1987,67,Adventure,8.26,263669,MAPPA
+1622,Anime Series 622,2017,98,Romance,6.54,412543,Other Studio
+1623,Anime Series 623,2014,120,Sports,7.9,381024,White Fox
+1624,Anime Series 624,1985,72,Adventure,8.47,137018,Gainax
+1625,Anime Series 625,1996,61,Slice of Life,6.8,281837,Wit Studio
+1626,Anime Series 626,1985,45,Adventure,6.73,294385,CloverWorks
+1627,Anime Series 627,2012,103,Comedy,6.28,382338,Toei Animation
+1628,Anime Series 628,2021,45,Sci-Fi,6.59,100790,Other Studio
+1629,Anime Series 629,1982,96,Romance,6.35,413756,Gainax
+1630,Anime Series 630,2022,38,Supernatural,6.28,77255,Wit Studio
+1631,Anime Series 631,1968,11,Horror,7.96,200829,Madhouse
+1632,Anime Series 632,1971,85,Horror,6.37,177275,Studio Pierrot
+1633,Anime Series 633,2012,97,Romance,7.21,423297,Madhouse
+1634,Anime Series 634,1960,102,Supernatural,7.03,197933,White Fox
+1635,Anime Series 635,2017,64,Mystery,8.2,266439,Sunrise
+1636,Anime Series 636,2017,64,Slice of Life,6.6,16350,Madhouse
+1637,Anime Series 637,1960,53,Comedy,7.3,191584,J.C.Staff
+1638,Anime Series 638,2006,18,Comedy,7.63,323953,Trigger
+1639,Anime Series 639,1993,112,Action,8.19,106894,White Fox
+1640,Anime Series 640,1991,50,Sci-Fi,6.59,364701,MAPPA
+1641,Anime Series 641,2021,94,Fantasy,6.51,441048,J.C.Staff
+1642,Anime Series 642,2013,105,Drama,6.15,426585,CloverWorks
+1643,Anime Series 643,2007,12,Slice of Life,8.79,36728,A-1 Pictures
+1644,Anime Series 644,1984,138,Drama,8.11,284720,Other Studio
+1645,Anime Series 645,1999,50,Drama,6.97,427217,White Fox
+1646,Anime Series 646,2004,63,Romance,8.55,88384,Studio Pierrot
+1647,Anime Series 647,2012,36,Horror,6.92,5390,Toei Animation
+1648,Anime Series 648,1960,28,Horror,7.58,485751,Wit Studio
+1649,Anime Series 649,1975,143,Fantasy,7.01,312580,Studio Pierrot
+1650,Anime Series 650,2020,112,Romance,7.32,16569,MAPPA
+1651,Anime Series 651,1998,44,Drama,7.23,411245,Production I.G
+1652,Anime Series 652,2023,87,Supernatural,6.66,27490,Other Studio
+1653,Anime Series 653,2022,105,Mystery,7.87,313019,Wit Studio
+1654,Anime Series 654,1964,7,Sports,7.57,499080,Production I.G
+1655,Anime Series 655,1981,82,Horror,7.82,273011,A-1 Pictures
+1656,Anime Series 656,1988,17,Slice of Life,7.26,85820,MAPPA
+1657,Anime Series 657,2014,44,Supernatural,6.27,366659,Trigger
+1658,Anime Series 658,1962,18,Slice of Life,8.37,276265,Kyoto Animation
+1659,Anime Series 659,1971,51,Action,6.79,6539,Kyoto Animation
+1660,Anime Series 660,1985,118,Adventure,7.29,489240,Gainax
+1661,Anime Series 661,1975,22,Sports,7.51,415243,Kyoto Animation
+1662,Anime Series 662,2010,109,Horror,7.29,394546,Toei Animation
+1663,Anime Series 663,1996,103,Comedy,7.73,341373,Toei Animation
+1664,Anime Series 664,1981,93,Horror,7.86,407137,Kyoto Animation
+1665,Anime Series 665,2016,114,Supernatural,6.82,317579,Production I.G
+1666,Anime Series 666,1988,75,Action,8.3,408526,MAPPA
+1667,Anime Series 667,1973,79,Slice of Life,6.79,68965,Madhouse
+1668,Anime Series 668,1987,68,Drama,7.27,378192,Other Studio
+1669,Anime Series 669,1964,65,Comedy,6.69,363588,MAPPA
+1670,Anime Series 670,2006,84,Romance,6.46,337066,CloverWorks
+1671,Anime Series 671,2008,42,Sci-Fi,7.84,102799,Gainax
+1672,Anime Series 672,1989,27,Drama,9.5,98948,Kyoto Animation
+1673,Anime Series 673,2005,101,Sci-Fi,6.71,481055,MAPPA
+1674,Anime Series 674,2021,73,Sports,7.97,148314,Sunrise
+1675,Anime Series 675,2011,22,Mystery,6.74,253099,Toei Animation
+1676,Anime Series 676,1964,17,Adventure,6.99,276091,Toei Animation
+1677,Anime Series 677,1971,143,Mystery,8.41,248322,Production I.G
+1678,Anime Series 678,1975,123,Comedy,6.14,207538,Madhouse
+1679,Anime Series 679,1985,27,Fantasy,5.93,239778,Other Studio
+1680,Anime Series 680,1985,125,Comedy,6.93,260821,Gainax
+1681,Anime Series 681,2007,55,Mystery,7.53,197888,Kyoto Animation
+1682,Anime Series 682,1980,19,Horror,7.37,315929,Studio Pierrot
+1683,Anime Series 683,1998,34,Supernatural,7.29,387107,Wit Studio
+1684,Anime Series 684,1995,130,Slice of Life,7.03,267651,Production I.G
+1685,Anime Series 685,1992,12,Horror,7.63,465188,Production I.G
+1686,Anime Series 686,2021,34,Horror,4.67,163223,Madhouse
+1687,Anime Series 687,1989,144,Supernatural,6.4,16618,J.C.Staff
+1688,Anime Series 688,1996,38,Supernatural,6.93,341430,Trigger
+1689,Anime Series 689,1982,139,Sports,7.56,283266,Kyoto Animation
+1690,Anime Series 690,2017,116,Drama,8.19,143426,Studio Pierrot
+1691,Anime Series 691,1969,84,Fantasy,6.29,376742,Trigger
+1692,Anime Series 692,2013,63,Fantasy,8.17,429195,Toei Animation
+1693,Anime Series 693,1964,31,Horror,6.64,91436,Madhouse
+1694,Anime Series 694,1995,34,Sci-Fi,6.9,215448,Studio Pierrot
+1695,Anime Series 695,1993,9,Sports,7.47,450990,Other Studio
+1696,Anime Series 696,2011,104,Horror,6.84,141109,Sunrise
+1697,Anime Series 697,1990,146,Adventure,7.89,33633,Production I.G
+1698,Anime Series 698,1969,44,Slice of Life,6.68,291639,Trigger
+1699,Anime Series 699,2017,20,Supernatural,6.69,331694,Madhouse
+1700,Anime Series 700,1978,124,Drama,7.84,217456,Toei Animation
+1701,Anime Series 701,2017,34,Romance,6.39,303627,MAPPA
+1702,Anime Series 702,1991,80,Supernatural,7.2,380325,Gainax
+1703,Anime Series 703,1960,121,Adventure,5.67,471589,Toei Animation
+1704,Anime Series 704,2015,37,Sci-Fi,8.46,301213,Trigger
+1705,Anime Series 705,1964,135,Comedy,7.97,143442,White Fox
+1706,Anime Series 706,2004,89,Comedy,9.2,124873,Sunrise
+1707,Anime Series 707,1963,27,Mystery,8.07,383987,Madhouse
+1708,Anime Series 708,1975,32,Adventure,6.1,76947,Wit Studio
+1709,Anime Series 709,1983,86,Mystery,7.53,175205,Sunrise
+1710,Anime Series 710,1975,131,Horror,6.27,232107,Kyoto Animation
+1711,Anime Series 711,2014,97,Romance,8.26,100761,Kyoto Animation
+1712,Anime Series 712,1961,26,Action,6.12,380897,White Fox
+1713,Anime Series 713,2008,52,Supernatural,6.08,398908,Wit Studio
+1714,Anime Series 714,1987,106,Action,5.71,33926,CloverWorks
+1715,Anime Series 715,2023,89,Sci-Fi,6.61,366926,MAPPA
+1716,Anime Series 716,1991,11,Horror,6.45,109700,Trigger
+1717,Anime Series 717,1986,136,Fantasy,5.99,341128,White Fox
+1718,Anime Series 718,1979,6,Supernatural,8.59,441606,Wit Studio
+1719,Anime Series 719,1983,63,Mystery,7.42,54593,White Fox
+1720,Anime Series 720,1971,129,Fantasy,7.33,342753,CloverWorks
+1721,Anime Series 721,2009,20,Drama,8.27,499166,Production I.G
+1722,Anime Series 722,1994,69,Romance,7.21,10209,J.C.Staff
+1723,Anime Series 723,2019,30,Romance,6.4,131700,Bones
+1724,Anime Series 724,1992,29,Comedy,5.64,404749,Studio Pierrot
+1725,Anime Series 725,1992,17,Sports,6.36,91597,Sunrise
+1726,Anime Series 726,2020,23,Supernatural,8.2,274355,Studio Pierrot
+1727,Anime Series 727,2010,20,Mystery,6.0,14927,MAPPA
+1728,Anime Series 728,2002,32,Sci-Fi,7.28,213535,Studio Pierrot
+1729,Anime Series 729,1996,77,Action,7.83,122333,Studio Pierrot
+1730,Anime Series 730,1971,65,Sci-Fi,7.23,160666,Gainax
+1731,Anime Series 731,1962,98,Fantasy,7.32,210924,CloverWorks
+1732,Anime Series 732,1960,58,Fantasy,7.52,213785,Toei Animation
+1733,Anime Series 733,1992,13,Adventure,7.3,343526,Madhouse
+1734,Anime Series 734,1999,84,Drama,8.29,144005,Other Studio
+1735,Anime Series 735,1969,32,Supernatural,6.17,108780,Production I.G
+1736,Anime Series 736,2002,55,Romance,7.19,45696,Bones
+1737,Anime Series 737,2003,136,Slice of Life,5.55,201521,Madhouse
+1738,Anime Series 738,1988,98,Mystery,5.34,334760,Toei Animation
+1739,Anime Series 739,1972,29,Sci-Fi,6.93,404305,Studio Pierrot
+1740,Anime Series 740,1971,65,Mystery,7.43,454764,Bones
+1741,Anime Series 741,1990,127,Fantasy,8.3,162195,Toei Animation
+1742,Anime Series 742,2005,136,Sports,8.94,406013,CloverWorks
+1743,Anime Series 743,1961,51,Comedy,8.06,55013,Toei Animation
+1744,Anime Series 744,2020,20,Action,7.58,406562,CloverWorks
+1745,Anime Series 745,2010,22,Drama,7.13,221486,Toei Animation
+1746,Anime Series 746,2009,131,Sports,5.78,431888,Kyoto Animation
+1747,Anime Series 747,1994,89,Drama,6.88,415869,White Fox
+1748,Anime Series 748,1982,14,Adventure,8.03,316700,Bones
+1749,Anime Series 749,1976,68,Slice of Life,7.72,390867,Wit Studio
+1750,Anime Series 750,1985,122,Fantasy,5.97,244350,Toei Animation
+1751,Anime Series 751,1967,135,Comedy,7.49,31140,J.C.Staff
+1752,Anime Series 752,1988,93,Supernatural,7.42,268328,Studio Pierrot
+1753,Anime Series 753,1985,77,Sports,7.28,432709,Bones
+1754,Anime Series 754,1969,144,Drama,6.98,442364,Kyoto Animation
+1755,Anime Series 755,1985,69,Romance,7.53,160918,Sunrise
+1756,Anime Series 756,2021,77,Adventure,7.56,116361,Sunrise
+1757,Anime Series 757,1993,26,Romance,6.49,158267,Production I.G
+1758,Anime Series 758,2010,23,Comedy,7.36,272750,A-1 Pictures
+1759,Anime Series 759,2000,69,Supernatural,6.85,402172,J.C.Staff
+1760,Anime Series 760,1966,87,Supernatural,5.81,21555,Gainax
+1761,Anime Series 761,1963,115,Sports,6.55,95385,Gainax
+1762,Anime Series 762,2017,100,Mystery,5.75,416906,Sunrise
+1763,Anime Series 763,2012,37,Adventure,7.78,325646,Other Studio
+1764,Anime Series 764,2009,16,Supernatural,7.28,260658,Kyoto Animation
+1765,Anime Series 765,2004,50,Supernatural,6.72,447065,Trigger
+1766,Anime Series 766,1970,38,Sports,8.14,162419,A-1 Pictures
+1767,Anime Series 767,1988,107,Fantasy,7.05,234797,Gainax
+1768,Anime Series 768,2015,141,Horror,5.86,108844,Toei Animation
+1769,Anime Series 769,1995,16,Adventure,6.65,96321,Toei Animation
+1770,Anime Series 770,1984,93,Romance,8.31,316200,MAPPA
+1771,Anime Series 771,1980,46,Comedy,6.46,199923,Studio Pierrot
+1772,Anime Series 772,2020,81,Supernatural,7.22,103234,A-1 Pictures
+1773,Anime Series 773,2016,126,Supernatural,7.6,479718,Other Studio
+1774,Anime Series 774,1995,51,Slice of Life,7.47,232705,Other Studio
+1775,Anime Series 775,1969,85,Fantasy,8.96,479634,Studio Pierrot
+1776,Anime Series 776,1996,59,Supernatural,6.06,206283,Kyoto Animation
+1777,Anime Series 777,1968,91,Horror,6.14,308994,Trigger
+1778,Anime Series 778,1983,97,Slice of Life,6.07,476761,J.C.Staff
+1779,Anime Series 779,2023,102,Action,6.76,294987,CloverWorks
+1780,Anime Series 780,1994,7,Fantasy,7.88,329464,A-1 Pictures
+1781,Anime Series 781,2008,38,Comedy,6.17,34793,Other Studio
+1782,Anime Series 782,1994,82,Drama,7.89,437732,Sunrise
+1783,Anime Series 783,2007,121,Adventure,7.03,153929,Other Studio
+1784,Anime Series 784,1995,108,Sports,6.11,24627,J.C.Staff
+1785,Anime Series 785,1977,108,Comedy,5.6,328966,MAPPA
+1786,Anime Series 786,2008,95,Adventure,5.78,482317,Gainax
+1787,Anime Series 787,1998,127,Slice of Life,6.47,227633,Wit Studio
+1788,Anime Series 788,1991,148,Mystery,6.86,450464,Studio Pierrot
+1789,Anime Series 789,1983,111,Sports,8.08,322942,Studio Pierrot
+1790,Anime Series 790,1982,124,Sci-Fi,7.64,229440,Gainax
+1791,Anime Series 791,2021,54,Romance,6.33,180188,J.C.Staff
+1792,Anime Series 792,1991,109,Action,7.33,342462,Toei Animation
+1793,Anime Series 793,1996,66,Fantasy,8.32,371330,Studio Pierrot
+1794,Anime Series 794,1971,128,Supernatural,8.5,263191,MAPPA
+1795,Anime Series 795,2008,139,Mystery,6.75,355046,Trigger
+1796,Anime Series 796,2014,14,Mystery,7.77,426773,Sunrise
+1797,Anime Series 797,1972,11,Comedy,8.11,338478,White Fox
+1798,Anime Series 798,1982,78,Action,5.79,473379,Bones
+1799,Anime Series 799,1984,108,Drama,6.59,373863,Sunrise
+1800,Anime Series 800,1994,46,Adventure,8.78,128099,Sunrise
+1801,Anime Series 801,2000,119,Adventure,6.76,214074,Trigger
+1802,Anime Series 802,1989,13,Comedy,4.66,178686,Studio Pierrot
+1803,Anime Series 803,1976,77,Horror,6.9,279864,Wit Studio
+1804,Anime Series 804,2008,97,Horror,7.9,324752,Madhouse
+1805,Anime Series 805,2021,67,Supernatural,7.01,112449,Gainax
+1806,Anime Series 806,1979,89,Sci-Fi,7.57,107828,CloverWorks
+1807,Anime Series 807,2007,67,Romance,7.75,131613,Gainax
+1808,Anime Series 808,1984,116,Sports,6.72,77095,Toei Animation
+1809,Anime Series 809,1981,132,Drama,6.58,110924,CloverWorks
+1810,Anime Series 810,1972,12,Supernatural,7.12,482910,Studio Pierrot
+1811,Anime Series 811,2018,89,Action,7.14,101452,CloverWorks
+1812,Anime Series 812,1978,137,Horror,7.04,92593,Toei Animation
+1813,Anime Series 813,2008,139,Sci-Fi,7.08,171964,Trigger
+1814,Anime Series 814,1995,63,Sci-Fi,6.4,374119,Gainax
+1815,Anime Series 815,1971,27,Comedy,7.6,344386,Kyoto Animation
+1816,Anime Series 816,2020,132,Drama,7.48,383185,Gainax
+1817,Anime Series 817,2000,8,Slice of Life,5.93,131202,Madhouse
+1818,Anime Series 818,1978,132,Sports,6.69,82606,CloverWorks
+1819,Anime Series 819,1971,46,Romance,7.07,128769,Studio Pierrot
+1820,Anime Series 820,1968,111,Fantasy,6.57,123542,Production I.G
+1821,Anime Series 821,1966,19,Comedy,7.51,373582,CloverWorks
+1822,Anime Series 822,1987,17,Sports,6.95,268068,Other Studio
+1823,Anime Series 823,1973,92,Fantasy,7.14,56322,Sunrise
+1824,Anime Series 824,1990,17,Fantasy,6.68,162550,Kyoto Animation
+1825,Anime Series 825,2023,146,Drama,5.41,76042,Madhouse
+1826,Anime Series 826,2011,30,Drama,5.36,51418,Studio Pierrot
+1827,Anime Series 827,1978,50,Supernatural,7.47,460433,MAPPA
+1828,Anime Series 828,2017,127,Action,7.21,105699,J.C.Staff
+1829,Anime Series 829,2006,60,Sci-Fi,7.35,95140,White Fox
+1830,Anime Series 830,1975,105,Sports,7.11,479062,Trigger
+1831,Anime Series 831,2012,141,Comedy,7.17,471978,J.C.Staff
+1832,Anime Series 832,1964,124,Supernatural,7.78,16781,Toei Animation
+1833,Anime Series 833,1994,58,Adventure,7.36,403731,Gainax
+1834,Anime Series 834,1971,37,Comedy,7.83,384502,Other Studio
+1835,Anime Series 835,1984,56,Action,7.14,303277,CloverWorks
+1836,Anime Series 836,2011,49,Romance,6.76,480724,Madhouse
+1837,Anime Series 837,2018,87,Mystery,7.16,102628,Sunrise
+1838,Anime Series 838,1980,42,Mystery,6.33,81946,Sunrise
+1839,Anime Series 839,1995,101,Sci-Fi,6.7,90058,Wit Studio
+1840,Anime Series 840,2012,61,Mystery,7.14,407311,Gainax
+1841,Anime Series 841,1982,110,Mystery,7.13,486799,Bones
+1842,Anime Series 842,1975,64,Adventure,6.91,156542,J.C.Staff
+1843,Anime Series 843,2016,136,Horror,5.89,310273,CloverWorks
+1844,Anime Series 844,1998,40,Romance,7.51,275675,Kyoto Animation
+1845,Anime Series 845,2004,98,Drama,7.67,304182,Madhouse
+1846,Anime Series 846,2012,102,Fantasy,8.31,355083,Other Studio
+1847,Anime Series 847,2001,140,Horror,7.35,47674,Sunrise
+1848,Anime Series 848,2017,81,Comedy,7.0,132572,Gainax
+1849,Anime Series 849,1998,54,Comedy,6.19,230730,Other Studio
+1850,Anime Series 850,1973,99,Mystery,8.19,480692,Bones
+1851,Anime Series 851,1990,29,Drama,7.2,296975,Madhouse
+1852,Anime Series 852,2017,42,Action,7.15,62174,CloverWorks
+1853,Anime Series 853,1964,9,Sports,6.8,278423,Trigger
+1854,Anime Series 854,1994,113,Horror,6.75,436436,Gainax
+1855,Anime Series 855,1982,131,Horror,7.55,327754,A-1 Pictures
+1856,Anime Series 856,1988,25,Slice of Life,6.18,450935,Trigger
+1857,Anime Series 857,2002,55,Romance,8.3,261008,Other Studio
+1858,Anime Series 858,1970,101,Sci-Fi,8.13,58051,Sunrise
+1859,Anime Series 859,1977,110,Romance,6.72,208085,A-1 Pictures
+1860,Anime Series 860,2006,122,Sports,6.31,323796,Madhouse
+1861,Anime Series 861,1971,103,Comedy,5.39,70524,CloverWorks
+1862,Anime Series 862,1968,71,Comedy,6.0,481152,Sunrise
+1863,Anime Series 863,1969,84,Comedy,7.58,273614,Wit Studio
+1864,Anime Series 864,2017,11,Slice of Life,7.25,465814,A-1 Pictures
+1865,Anime Series 865,2003,44,Comedy,7.39,440014,Gainax
+1866,Anime Series 866,1976,120,Sports,5.52,320617,Production I.G
+1867,Anime Series 867,2020,130,Supernatural,6.68,418096,Bones
+1868,Anime Series 868,1997,17,Drama,8.09,236189,Kyoto Animation
+1869,Anime Series 869,1966,136,Sci-Fi,6.92,49439,J.C.Staff
+1870,Anime Series 870,2005,23,Sports,5.98,281452,Other Studio
+1871,Anime Series 871,1972,45,Mystery,6.91,96563,Other Studio
+1872,Anime Series 872,1999,26,Supernatural,6.38,232328,Bones
+1873,Anime Series 873,2001,148,Sci-Fi,7.27,302225,A-1 Pictures
+1874,Anime Series 874,1968,104,Sports,7.02,211314,Sunrise
+1875,Anime Series 875,2009,31,Supernatural,7.43,448599,Wit Studio
+1876,Anime Series 876,1986,13,Comedy,6.03,14837,Production I.G
+1877,Anime Series 877,2017,105,Drama,6.64,240207,Wit Studio
+1878,Anime Series 878,1961,92,Horror,7.87,450367,Production I.G
+1879,Anime Series 879,1964,47,Romance,5.92,123128,Other Studio
+1880,Anime Series 880,1988,19,Fantasy,6.2,172896,J.C.Staff
+1881,Anime Series 881,1996,83,Drama,7.16,169145,Wit Studio
+1882,Anime Series 882,1997,7,Horror,7.23,379795,Production I.G
+1883,Anime Series 883,1978,124,Action,6.61,102624,Wit Studio
+1884,Anime Series 884,1967,42,Sports,6.78,491864,White Fox
+1885,Anime Series 885,2007,74,Action,7.43,424515,Other Studio
+1886,Anime Series 886,2004,46,Horror,7.68,498209,Bones
+1887,Anime Series 887,1960,67,Drama,6.14,194933,Studio Pierrot
+1888,Anime Series 888,1981,65,Sports,7.29,35063,Production I.G
+1889,Anime Series 889,2011,130,Mystery,8.21,74453,J.C.Staff
+1890,Anime Series 890,1976,116,Fantasy,6.91,259371,Production I.G
+1891,Anime Series 891,2022,19,Comedy,6.14,466688,Production I.G
+1892,Anime Series 892,1966,89,Sports,6.1,107166,MAPPA
+1893,Anime Series 893,1984,135,Mystery,6.87,19506,White Fox
+1894,Anime Series 894,2004,75,Sports,7.83,230413,Bones
+1895,Anime Series 895,1963,128,Drama,6.97,478070,Trigger
+1896,Anime Series 896,1995,94,Mystery,7.15,118604,A-1 Pictures
+1897,Anime Series 897,1965,33,Drama,6.2,31026,Toei Animation
+1898,Anime Series 898,2019,71,Supernatural,7.79,425888,Studio Pierrot
+1899,Anime Series 899,1990,10,Horror,6.08,436633,Production I.G
+1900,Anime Series 900,1978,50,Adventure,6.6,319557,Kyoto Animation
+1901,Anime Series 901,2020,52,Sports,7.5,260116,Production I.G
+1902,Anime Series 902,2003,36,Romance,5.37,332210,MAPPA
+1903,Anime Series 903,2013,144,Sports,7.14,195285,Wit Studio
+1904,Anime Series 904,1998,15,Horror,6.17,55971,A-1 Pictures
+1905,Anime Series 905,1986,123,Sci-Fi,7.01,425497,Kyoto Animation
+1906,Anime Series 906,1969,19,Action,6.72,118978,Studio Pierrot
+1907,Anime Series 907,1985,85,Supernatural,8.68,164163,Kyoto Animation
+1908,Anime Series 908,1978,98,Comedy,6.69,317638,Trigger
+1909,Anime Series 909,1998,15,Mystery,8.47,108864,Bones
+1910,Anime Series 910,2021,81,Adventure,7.47,416826,J.C.Staff
+1911,Anime Series 911,1962,99,Fantasy,6.36,399295,Gainax
+1912,Anime Series 912,2004,110,Fantasy,7.26,100386,J.C.Staff
+1913,Anime Series 913,1972,6,Fantasy,6.76,444967,Gainax
+1914,Anime Series 914,2009,138,Drama,7.19,91126,Studio Pierrot
+1915,Anime Series 915,1987,25,Fantasy,6.43,453648,CloverWorks
+1916,Anime Series 916,2021,13,Comedy,8.35,167023,A-1 Pictures
+1917,Anime Series 917,2017,6,Supernatural,7.74,85863,CloverWorks
+1918,Anime Series 918,1979,62,Action,7.03,345435,J.C.Staff
+1919,Anime Series 919,1987,69,Fantasy,8.38,130659,Gainax
+1920,Anime Series 920,1967,123,Sports,7.06,195944,Madhouse
+1921,Anime Series 921,2020,33,Sports,7.88,12235,MAPPA
+1922,Anime Series 922,2022,126,Drama,7.03,349877,Studio Pierrot
+1923,Anime Series 923,2000,112,Comedy,7.32,67712,Studio Pierrot
+1924,Anime Series 924,1998,54,Action,6.93,157545,Toei Animation
+1925,Anime Series 925,1960,125,Adventure,7.08,203639,Toei Animation
+1926,Anime Series 926,1962,49,Horror,7.14,242890,Bones
+1927,Anime Series 927,1972,61,Action,6.46,130849,Gainax
+1928,Anime Series 928,1987,116,Horror,6.68,260493,White Fox
+1929,Anime Series 929,2021,139,Sci-Fi,6.83,84823,Bones
+1930,Anime Series 930,2016,113,Horror,7.18,109215,Toei Animation
+1931,Anime Series 931,2022,119,Supernatural,6.98,246071,CloverWorks
+1932,Anime Series 932,2019,83,Romance,7.94,37230,J.C.Staff
+1933,Anime Series 933,2008,135,Supernatural,7.68,351717,Sunrise
+1934,Anime Series 934,1984,42,Sports,6.84,228660,Studio Pierrot
+1935,Anime Series 935,2015,25,Comedy,8.11,467092,Trigger
+1936,Anime Series 936,1992,31,Slice of Life,8.5,307788,Madhouse
+1937,Anime Series 937,1997,34,Drama,5.36,184736,Studio Pierrot
+1938,Anime Series 938,2012,6,Romance,7.75,312347,Production I.G
+1939,Anime Series 939,1965,124,Horror,6.45,333821,A-1 Pictures
+1940,Anime Series 940,2017,40,Fantasy,7.64,423641,MAPPA
+1941,Anime Series 941,2003,64,Comedy,7.99,128246,Sunrise
+1942,Anime Series 942,2004,74,Romance,6.3,89817,Madhouse
+1943,Anime Series 943,1991,17,Drama,5.52,243657,Production I.G
+1944,Anime Series 944,2004,25,Sports,7.67,222033,Bones
+1945,Anime Series 945,2020,48,Comedy,7.11,236414,Madhouse
+1946,Anime Series 946,2006,131,Drama,5.67,261812,CloverWorks
+1947,Anime Series 947,1980,55,Sci-Fi,9.02,495865,Toei Animation
+1948,Anime Series 948,1975,34,Sci-Fi,7.5,336950,Studio Pierrot
+1949,Anime Series 949,2013,44,Supernatural,7.54,309958,Madhouse
+1950,Anime Series 950,1980,43,Supernatural,8.09,75219,A-1 Pictures
+1951,Anime Series 951,1970,89,Drama,6.54,447862,Kyoto Animation
+1952,Anime Series 952,2019,133,Romance,7.1,175956,Trigger
+1953,Anime Series 953,1996,131,Supernatural,5.94,362489,Bones
+1954,Anime Series 954,1995,50,Comedy,6.51,262134,Wit Studio
+1955,Anime Series 955,1994,57,Romance,7.31,367232,White Fox
+1956,Anime Series 956,1978,85,Supernatural,5.67,336466,MAPPA
+1957,Anime Series 957,1979,129,Adventure,6.49,26650,White Fox
+1958,Anime Series 958,2016,124,Horror,6.26,361386,CloverWorks
+1959,Anime Series 959,1977,13,Adventure,7.11,407406,MAPPA
+1960,Anime Series 960,2006,90,Mystery,7.46,305340,Madhouse
+1961,Anime Series 961,2000,134,Sci-Fi,7.59,175521,Kyoto Animation
+1962,Anime Series 962,2008,13,Sports,7.8,175733,Studio Pierrot
+1963,Anime Series 963,1973,101,Action,8.1,296853,Wit Studio
+1964,Anime Series 964,1974,107,Horror,7.49,247037,CloverWorks
+1965,Anime Series 965,1990,10,Sci-Fi,8.51,85428,Production I.G
+1966,Anime Series 966,1960,91,Romance,7.1,211251,Sunrise
+1967,Anime Series 967,2012,39,Romance,6.86,14943,Studio Pierrot
+1968,Anime Series 968,2013,60,Romance,7.49,179312,Production I.G
+1969,Anime Series 969,2013,124,Sports,6.83,443976,Sunrise
+1970,Anime Series 970,1962,119,Adventure,8.48,26042,Other Studio
+1971,Anime Series 971,1975,31,Action,7.9,257842,Kyoto Animation
+1972,Anime Series 972,1982,141,Supernatural,7.6,311038,Sunrise
+1973,Anime Series 973,2016,52,Romance,7.11,405085,Trigger
+1974,Anime Series 974,1970,118,Slice of Life,6.67,459294,Studio Pierrot
+1975,Anime Series 975,1971,81,Mystery,7.56,323903,CloverWorks
+1976,Anime Series 976,1969,77,Horror,6.1,373117,Trigger
+1977,Anime Series 977,1991,94,Comedy,8.23,311450,Gainax
+1978,Anime Series 978,1975,51,Supernatural,6.86,375513,Other Studio
+1979,Anime Series 979,1967,38,Slice of Life,7.24,191443,A-1 Pictures
+1980,Anime Series 980,1997,6,Action,6.27,156990,Madhouse
+1981,Anime Series 981,1971,36,Sports,7.58,295523,Production I.G
+1982,Anime Series 982,1983,147,Action,6.64,387811,A-1 Pictures
+1983,Anime Series 983,1987,58,Comedy,7.52,489026,Production I.G
+1984,Anime Series 984,2012,53,Horror,7.61,219304,CloverWorks
+1985,Anime Series 985,1967,74,Comedy,6.48,401178,Madhouse
+1986,Anime Series 986,2017,110,Drama,6.1,149923,Gainax
+1987,Anime Series 987,1987,95,Horror,8.23,384770,J.C.Staff
+1988,Anime Series 988,1995,68,Action,6.85,443963,Sunrise
+1989,Anime Series 989,1985,78,Romance,7.18,392324,Kyoto Animation
+1990,Anime Series 990,1967,94,Action,7.39,319493,J.C.Staff
+1991,Anime Series 991,2017,18,Action,6.0,206904,J.C.Staff
+1992,Anime Series 992,2019,78,Horror,7.37,192428,MAPPA
+1993,Anime Series 993,2009,82,Mystery,7.08,150817,Toei Animation
+1994,Anime Series 994,1987,73,Drama,6.49,10730,Studio Pierrot
+1995,Anime Series 995,1987,103,Supernatural,6.07,412137,A-1 Pictures
+1996,Anime Series 996,1996,130,Action,7.48,234502,A-1 Pictures
+1997,Anime Series 997,2000,107,Slice of Life,7.9,207210,A-1 Pictures
+1998,Anime Series 998,1995,137,Sci-Fi,7.14,219183,Trigger
+1999,Anime Series 999,2023,107,Fantasy,5.85,24023,CloverWorks
+2000,Anime Series 1000,1986,24,Fantasy,6.15,443565,A-1 Pictures
+2001,Anime Series 1001,2013,87,Action,6.65,131796,CloverWorks
+2002,Anime Series 1002,2022,146,Slice of Life,8.25,348677,Studio Pierrot
+2003,Anime Series 1003,1976,28,Mystery,6.8,350430,J.C.Staff
+2004,Anime Series 1004,1968,88,Romance,6.63,309123,Gainax
+2005,Anime Series 1005,1992,114,Sports,5.66,289981,Studio Pierrot
+2006,Anime Series 1006,2012,80,Sports,6.47,413213,A-1 Pictures
+2007,Anime Series 1007,1979,134,Horror,6.01,372119,Toei Animation
+2008,Anime Series 1008,1972,93,Fantasy,6.2,486819,Bones
+2009,Anime Series 1009,1987,59,Action,7.1,181111,Madhouse
+2010,Anime Series 1010,2007,94,Sports,6.68,25923,A-1 Pictures
+2011,Anime Series 1011,1988,148,Action,8.36,276020,Kyoto Animation
+2012,Anime Series 1012,1972,70,Horror,7.86,328117,Bones
+2013,Anime Series 1013,2005,81,Fantasy,6.51,401103,Studio Pierrot
+2014,Anime Series 1014,1994,148,Comedy,6.27,199795,Kyoto Animation
+2015,Anime Series 1015,2020,65,Mystery,8.11,309566,Kyoto Animation
+2016,Anime Series 1016,1965,98,Sci-Fi,8.33,238462,Production I.G
+2017,Anime Series 1017,1977,54,Sci-Fi,5.24,56413,Kyoto Animation
+2018,Anime Series 1018,2010,40,Sports,7.07,369628,A-1 Pictures
+2019,Anime Series 1019,2023,107,Sci-Fi,6.8,401057,Production I.G
+2020,Anime Series 1020,1964,16,Mystery,7.52,260719,MAPPA
+2021,Anime Series 1021,2006,104,Comedy,8.55,33756,Gainax
+2022,Anime Series 1022,1984,115,Mystery,6.61,338720,J.C.Staff
+2023,Anime Series 1023,1961,79,Action,5.35,123248,Kyoto Animation
+2024,Anime Series 1024,1969,14,Horror,7.46,277448,Toei Animation
+2025,Anime Series 1025,2015,8,Supernatural,8.11,35341,Wit Studio
+2026,Anime Series 1026,1989,90,Comedy,6.76,402974,Madhouse
+2027,Anime Series 1027,2009,31,Supernatural,6.44,415226,Kyoto Animation
+2028,Anime Series 1028,2018,77,Horror,6.65,132039,CloverWorks
+2029,Anime Series 1029,2004,53,Horror,7.68,196830,MAPPA
+2030,Anime Series 1030,1964,122,Fantasy,6.64,167730,Sunrise
+2031,Anime Series 1031,2014,17,Supernatural,7.26,185074,Other Studio
+2032,Anime Series 1032,2015,138,Action,7.02,239390,CloverWorks
+2033,Anime Series 1033,1992,53,Slice of Life,6.94,137447,Other Studio
+2034,Anime Series 1034,2013,42,Sci-Fi,7.56,104485,Studio Pierrot
+2035,Anime Series 1035,1960,49,Supernatural,6.62,289236,Wit Studio
+2036,Anime Series 1036,1977,20,Slice of Life,6.66,136562,Studio Pierrot
+2037,Anime Series 1037,1991,48,Fantasy,7.64,8729,Gainax
+2038,Anime Series 1038,2006,92,Horror,6.21,142046,MAPPA
+2039,Anime Series 1039,2008,75,Sports,6.3,123222,Sunrise
+2040,Anime Series 1040,1970,51,Mystery,5.99,352360,Studio Pierrot
+2041,Anime Series 1041,1980,113,Sci-Fi,7.68,88860,Other Studio
+2042,Anime Series 1042,1985,128,Sci-Fi,6.92,263360,Studio Pierrot
+2043,Anime Series 1043,2022,26,Action,5.95,364014,Studio Pierrot
+2044,Anime Series 1044,1984,112,Drama,7.68,26398,MAPPA
+2045,Anime Series 1045,1981,85,Adventure,6.56,301794,Wit Studio
+2046,Anime Series 1046,2018,52,Adventure,6.3,419508,J.C.Staff
+2047,Anime Series 1047,1986,122,Adventure,6.84,499507,Madhouse
+2048,Anime Series 1048,2008,129,Drama,8.18,108889,MAPPA
+2049,Anime Series 1049,1972,148,Action,6.68,270303,Sunrise
+2050,Anime Series 1050,1992,30,Drama,7.46,365306,Kyoto Animation
+2051,Anime Series 1051,1993,41,Adventure,7.58,460982,Gainax
+2052,Anime Series 1052,2000,56,Fantasy,7.35,230959,J.C.Staff
+2053,Anime Series 1053,1994,20,Comedy,8.02,107834,Trigger
+2054,Anime Series 1054,2022,73,Supernatural,6.43,415281,White Fox
+2055,Anime Series 1055,1960,26,Horror,6.17,26638,Other Studio
+2056,Anime Series 1056,1980,146,Drama,6.15,268217,J.C.Staff
+2057,Anime Series 1057,2007,24,Action,6.88,444727,Kyoto Animation
+2058,Anime Series 1058,2014,39,Action,6.24,220379,Toei Animation
+2059,Anime Series 1059,1965,83,Supernatural,7.12,237069,Production I.G
+2060,Anime Series 1060,1987,130,Slice of Life,7.06,34320,Madhouse
+2061,Anime Series 1061,1976,122,Comedy,7.81,468092,Madhouse
+2062,Anime Series 1062,1964,57,Sports,7.23,39924,White Fox
+2063,Anime Series 1063,1990,32,Sci-Fi,6.67,217792,Toei Animation
+2064,Anime Series 1064,1964,40,Adventure,7.33,438950,Production I.G
+2065,Anime Series 1065,1997,141,Sports,6.18,335260,Madhouse
+2066,Anime Series 1066,1962,149,Slice of Life,6.97,176097,Sunrise
+2067,Anime Series 1067,2012,111,Adventure,7.26,492719,Bones
+2068,Anime Series 1068,1982,7,Comedy,7.1,7159,Bones
+2069,Anime Series 1069,1996,82,Mystery,7.33,53940,Madhouse
+2070,Anime Series 1070,2012,137,Slice of Life,6.48,84436,Trigger
+2071,Anime Series 1071,1996,95,Adventure,7.92,475192,A-1 Pictures
+2072,Anime Series 1072,1969,94,Comedy,8.46,19678,Madhouse
+2073,Anime Series 1073,1969,99,Romance,5.72,197147,Gainax
+2074,Anime Series 1074,1978,12,Sports,6.03,445420,Gainax
+2075,Anime Series 1075,1976,100,Sports,7.03,410237,Kyoto Animation
+2076,Anime Series 1076,1980,113,Sci-Fi,6.79,142844,Kyoto Animation
+2077,Anime Series 1077,1973,79,Supernatural,8.52,72163,Trigger
+2078,Anime Series 1078,1968,44,Comedy,7.18,246040,Gainax
+2079,Anime Series 1079,2005,146,Drama,8.11,209827,CloverWorks
+2080,Anime Series 1080,1960,76,Romance,5.36,159536,Production I.G
+2081,Anime Series 1081,2010,61,Mystery,7.65,56137,Studio Pierrot
+2082,Anime Series 1082,2004,47,Fantasy,6.43,428448,J.C.Staff
+2083,Anime Series 1083,1972,41,Adventure,6.41,328641,Sunrise
+2084,Anime Series 1084,1963,89,Romance,6.8,472240,Toei Animation
+2085,Anime Series 1085,2021,123,Comedy,5.86,105485,Wit Studio
+2086,Anime Series 1086,1960,12,Horror,7.35,245970,Madhouse
+2087,Anime Series 1087,2008,59,Adventure,7.15,449664,Studio Pierrot
+2088,Anime Series 1088,1999,134,Action,7.21,110468,Studio Pierrot
+2089,Anime Series 1089,1991,125,Sports,7.71,482733,Sunrise
+2090,Anime Series 1090,1993,111,Supernatural,8.21,5901,Toei Animation
+2091,Anime Series 1091,1987,52,Comedy,6.71,92980,White Fox
+2092,Anime Series 1092,1990,128,Mystery,7.38,374738,Trigger
+2093,Anime Series 1093,1967,146,Action,7.23,481813,Kyoto Animation
+2094,Anime Series 1094,1998,124,Sci-Fi,7.3,270025,MAPPA
+2095,Anime Series 1095,1985,123,Slice of Life,7.31,297007,Sunrise
+2096,Anime Series 1096,2017,26,Fantasy,8.27,247434,Studio Pierrot
+2097,Anime Series 1097,1993,142,Fantasy,6.63,403838,Bones
+2098,Anime Series 1098,2013,31,Action,5.78,399594,Madhouse
+2099,Anime Series 1099,2013,14,Sports,6.44,481384,Production I.G
+2100,Anime Series 1100,1962,20,Sci-Fi,7.61,492063,Gainax
+2101,Anime Series 1101,2018,15,Horror,7.02,207258,Bones
+2102,Anime Series 1102,2009,127,Sports,6.63,312345,Studio Pierrot
+2103,Anime Series 1103,1971,126,Romance,6.14,256839,J.C.Staff
+2104,Anime Series 1104,1960,130,Supernatural,7.18,326395,Wit Studio
+2105,Anime Series 1105,2013,77,Fantasy,7.52,77572,A-1 Pictures
+2106,Anime Series 1106,2003,54,Romance,7.24,44255,Other Studio
+2107,Anime Series 1107,1964,96,Mystery,6.8,68212,Toei Animation
+2108,Anime Series 1108,1989,42,Adventure,7.12,317354,CloverWorks
+2109,Anime Series 1109,1989,73,Drama,7.11,392773,Kyoto Animation
+2110,Anime Series 1110,2018,55,Comedy,7.15,27499,Madhouse
+2111,Anime Series 1111,2016,24,Sci-Fi,6.05,107552,Production I.G
+2112,Anime Series 1112,1976,105,Sports,7.16,449844,MAPPA
+2113,Anime Series 1113,2007,65,Fantasy,6.65,66360,Kyoto Animation
+2114,Anime Series 1114,2022,94,Romance,7.83,402819,Madhouse
+2115,Anime Series 1115,2006,74,Slice of Life,7.11,491525,MAPPA
+2116,Anime Series 1116,1982,54,Supernatural,7.67,394610,Other Studio
+2117,Anime Series 1117,1974,113,Supernatural,6.76,352617,Production I.G
+2118,Anime Series 1118,1996,124,Adventure,6.79,148704,Studio Pierrot
+2119,Anime Series 1119,1980,42,Comedy,8.2,166679,Gainax
+2120,Anime Series 1120,1973,148,Comedy,7.35,96873,A-1 Pictures
+2121,Anime Series 1121,1961,16,Supernatural,6.43,70756,Trigger
+2122,Anime Series 1122,1970,143,Supernatural,7.72,445210,Bones
+2123,Anime Series 1123,2010,83,Sports,6.57,199454,Trigger
+2124,Anime Series 1124,1998,82,Sci-Fi,7.18,468570,Bones
+2125,Anime Series 1125,1997,7,Horror,8.47,323488,Studio Pierrot
+2126,Anime Series 1126,2023,69,Mystery,5.85,451991,Kyoto Animation
+2127,Anime Series 1127,2019,40,Slice of Life,6.86,405565,Wit Studio
+2128,Anime Series 1128,1993,12,Mystery,7.33,338298,Studio Pierrot
+2129,Anime Series 1129,1997,90,Sports,7.61,32464,Studio Pierrot
+2130,Anime Series 1130,2009,72,Romance,6.01,440840,White Fox
+2131,Anime Series 1131,1993,47,Drama,5.77,126897,CloverWorks
+2132,Anime Series 1132,1977,123,Supernatural,7.87,304488,Madhouse
+2133,Anime Series 1133,1989,130,Action,6.42,88791,Wit Studio
+2134,Anime Series 1134,1974,29,Horror,6.39,160371,CloverWorks
+2135,Anime Series 1135,1986,51,Sci-Fi,8.24,184047,CloverWorks
+2136,Anime Series 1136,2010,24,Adventure,7.06,137534,Madhouse
+2137,Anime Series 1137,2022,73,Horror,7.06,387353,Trigger
+2138,Anime Series 1138,1993,107,Supernatural,6.86,86441,Production I.G
+2139,Anime Series 1139,2011,47,Fantasy,6.02,357600,A-1 Pictures
+2140,Anime Series 1140,2016,37,Sci-Fi,7.54,348932,CloverWorks
+2141,Anime Series 1141,1997,114,Drama,7.33,242612,Madhouse
+2142,Anime Series 1142,1992,41,Fantasy,7.13,438797,White Fox
+2143,Anime Series 1143,1983,102,Horror,6.91,236444,Production I.G
+2144,Anime Series 1144,1974,136,Action,6.77,469505,J.C.Staff
+2145,Anime Series 1145,2019,78,Action,7.73,281319,Studio Pierrot
+2146,Anime Series 1146,1989,141,Drama,6.89,142263,Studio Pierrot
+2147,Anime Series 1147,2014,102,Comedy,6.95,350578,Kyoto Animation
+2148,Anime Series 1148,2001,128,Slice of Life,7.42,89518,CloverWorks
+2149,Anime Series 1149,2010,75,Supernatural,7.17,216230,Other Studio
+2150,Anime Series 1150,1976,18,Adventure,8.31,333681,J.C.Staff
+2151,Anime Series 1151,1964,54,Supernatural,5.59,382865,Kyoto Animation
+2152,Anime Series 1152,1988,65,Comedy,7.24,52645,Gainax
+2153,Anime Series 1153,1963,135,Mystery,6.44,244608,CloverWorks
+2154,Anime Series 1154,1969,10,Mystery,6.25,28283,MAPPA
+2155,Anime Series 1155,2015,32,Mystery,6.63,354115,Other Studio
+2156,Anime Series 1156,1976,13,Action,7.04,359903,White Fox
+2157,Anime Series 1157,1969,55,Action,7.08,195195,Production I.G
+2158,Anime Series 1158,1976,72,Romance,5.79,107780,Trigger
+2159,Anime Series 1159,2019,49,Fantasy,6.57,428240,Production I.G
+2160,Anime Series 1160,1979,130,Horror,7.22,447846,Wit Studio
+2161,Anime Series 1161,1983,63,Adventure,6.3,297878,Studio Pierrot
+2162,Anime Series 1162,1964,8,Drama,6.11,5515,Sunrise
+2163,Anime Series 1163,1993,91,Horror,5.2,377926,Trigger
+2164,Anime Series 1164,1965,75,Supernatural,6.47,333871,MAPPA
+2165,Anime Series 1165,2012,135,Romance,6.08,233872,Production I.G
+2166,Anime Series 1166,1961,7,Action,6.21,376308,Gainax
+2167,Anime Series 1167,1972,107,Drama,6.78,313360,Madhouse
+2168,Anime Series 1168,2021,40,Action,6.52,338977,White Fox
+2169,Anime Series 1169,2002,103,Adventure,6.07,63755,Studio Pierrot
+2170,Anime Series 1170,2002,35,Fantasy,5.31,32856,Kyoto Animation
+2171,Anime Series 1171,2007,121,Horror,7.24,78870,White Fox
+2172,Anime Series 1172,1970,13,Horror,7.6,422378,J.C.Staff
+2173,Anime Series 1173,2010,49,Mystery,6.68,142080,Kyoto Animation
+2174,Anime Series 1174,2006,41,Comedy,6.79,275131,CloverWorks
+2175,Anime Series 1175,2016,82,Mystery,7.0,460748,Other Studio
+2176,Anime Series 1176,1982,36,Drama,8.26,101502,Bones
+2177,Anime Series 1177,2014,52,Slice of Life,5.75,401548,White Fox
+2178,Anime Series 1178,1975,60,Mystery,6.67,71323,White Fox
+2179,Anime Series 1179,1990,111,Romance,5.62,437206,Other Studio
+2180,Anime Series 1180,1970,126,Mystery,7.29,277017,Sunrise
+2181,Anime Series 1181,2013,60,Mystery,6.88,218614,Production I.G
+2182,Anime Series 1182,1975,149,Slice of Life,7.16,483977,A-1 Pictures
+2183,Anime Series 1183,1967,17,Comedy,7.12,172516,Toei Animation
+2184,Anime Series 1184,1963,149,Adventure,7.79,433556,Sunrise
+2185,Anime Series 1185,1999,145,Romance,7.43,110219,Wit Studio
+2186,Anime Series 1186,1963,141,Mystery,7.66,10033,CloverWorks
+2187,Anime Series 1187,2015,8,Fantasy,6.15,340468,Studio Pierrot
+2188,Anime Series 1188,1984,149,Slice of Life,7.95,282833,Trigger
+2189,Anime Series 1189,1962,35,Fantasy,6.42,114756,Production I.G
+2190,Anime Series 1190,1991,28,Slice of Life,6.47,485350,J.C.Staff
+2191,Anime Series 1191,1962,97,Fantasy,7.22,493455,Trigger
+2192,Anime Series 1192,1986,120,Slice of Life,7.24,267210,Production I.G
+2193,Anime Series 1193,1988,109,Supernatural,6.14,119159,Other Studio
+2194,Anime Series 1194,1991,123,Fantasy,6.86,181318,Trigger
+2195,Anime Series 1195,2009,10,Comedy,8.19,12533,Trigger
+2196,Anime Series 1196,2020,109,Sci-Fi,5.83,478855,Toei Animation
+2197,Anime Series 1197,2017,113,Romance,8.19,206224,Wit Studio
+2198,Anime Series 1198,2010,70,Drama,6.81,247653,J.C.Staff
+2199,Anime Series 1199,1978,126,Adventure,5.13,382972,Kyoto Animation
+2200,Anime Series 1200,1980,35,Supernatural,5.91,326802,Trigger
