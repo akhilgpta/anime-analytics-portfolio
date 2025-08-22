@@ -1,81 +1,72 @@
-# Anime Analytics Portfolio 🎥📊
+# 🎥📊 Anime Analytics Portfolio
 
 ## Overview  
-This project analyzes trends in **anime releases, genres, ratings, and popularity** using real data sources.  
-The goal is to demonstrate skills in **Excel, SQL (DuckDB), and Power BI**, while telling a clear data story recruiters and hiring managers can follow.  
+This project analyzes trends in **anime releases, genres, ratings, popularity, and studios** using real datasets.  
+The goal is to demonstrate skills in **Excel, SQL (DuckDB), and Power BI**, while telling a clear and data-driven story.
 
 ---
 
 ## Dataset 📂  
-- **Anime TV Series Dataset (1,200 entries)**  
-  - Release years: 1960-2023  
+- **Anime TV Series Dataset (1,200+ entries)**  
+  - Release years: 1960–2023  
   - Genres, studios, number of episodes  
-  - Average ratings (0-10)  
+  - Average ratings (0–10)  
   - Popularity counts (audience size)  
 
 ### Data Sources  
-- **AniList API** → https://anilist.gitbook.io/anilist-apiv2-docs/  
+- **AniList API** → [Docs](https://anilist.gitbook.io/anilist-apiv2-docs/)  
 - **MyAnimeList Community Data (via Kaggle, 2023)**  
 
-Dataset is stored in [`/data/anime_tv_series_dataset.csv`](data/anime_tv_series_dataset.csv).  
+Dataset stored in [`/data/anime_tv_series_dataset.csv`](data/anime_tv_series_dataset.csv).
 
 ---
 
 ## Tools Used 🛠️  
 - **Excel** → Pivot tables & charts  
-- **DuckDB (SQL)** → Quick queries on CSV data  
-- **Power BI** → Interactive dashboard (ratings, genres, popularity)  
+- **DuckDB (SQL)** → Fast queries on CSV data  
+- **Power BI** → Interactive dashboard & visuals  
 - **GitHub** → Portfolio hosting  
 
 ---
 
 ## Analysis & Visuals 📊  
 
-### Excel  
-- **Anime Releases by Year (1960-2023)**  
-- **Average Ratings by Genre**  
-- **Top 10 Most Popular Anime: Popularity vs Rating**  
+### 🔹 Excel Outputs
+- Anime releases by year (1960–2023)  
+- Average ratings by genre  
+- Top 10 studios by average rating  
 
-### Excel Charts  
-
-![Anime Releases by Year](images/releases_by_year.png)  
-*Number of anime TV series released each year (1960-2023).*
-
-![Average Ratings by Genre](images/ratings_by_genre.png)  
-*Average audience ratings by genre.*
-
-![Top 10 Popular Anime](images/top10_popularity.png)  
-*Comparison of popularity vs ratings for the top 10 shows.*
-
-
+![Releases by Year (Excel)](images/releases_by_year.png)  
+![Ratings by Genre (Excel)](images/avg_rating_by_genre.png)  
+![Top 10 Studios (Excel)](images/top10_studios.png)  
 
 ---
 
-### SQL (DuckDB)  
-Queries included in [`/sql/`](sql/README.md).  
+### 🔹 SQL (DuckDB)  
+Queries included in [`/sql/queries.sql`](sql/queries.sql).  
 
-Example questions answered:  
-- Which studios have the highest average ratings?  
-- How have anime ratings changed across decades?  
-- Which genres are both popular and highly rated?  
+Key queries:  
+- Number of releases per year  
+- Average rating by genre  
+- Top 10 studios by rating  
 
-**Query outputs (CSV):**
-- [Releases by Year](sql/releases_by_year.csv)
-- [Average Rating by Genre](sql/avg_rating_by_genre.csv)
-- [Top 10 Studios by Rating](sql/top10_studios.csv)
+**Query outputs (CSV):**  
+- [Releases by Year](sql/releases_by_year.csv)  
+- [Average Rating by Genre](sql/avg_rating_by_genre.csv)  
+- [Top 10 Studios by Rating](sql/top10_studios.csv)  
 
 ---
 
-### Power BI  
-Interactive dashboard showing:  
-- Line chart: Anime releases over time  
-- Bar chart: Ratings by genre  
-- Scatter plot: Popularity vs ratings  
+### 🔹 Power BI Outputs
+- Line chart → Anime releases over time  
+- Bar chart → Ratings by genre  
+- Scatter plot → Popularity vs ratings (colored by decade, bubble size = popularity)  
 
-👉 PBIX file in [`/powerbi/`](powerbi/).  
-👉 Screenshots exported to `/images/`.  
+![Releases by Year (Power BI)](images/releases_by_year_pbi.png)  
+![Ratings by Genre (Power BI)](images/avg_rating_by_genre_pbi.png)  
+![Popularity vs Rating (Power BI)](images/popularity_vs_rating_pbi.png)  
 
-*(optional: add Power BI "Publish to Web" link here)*  
+👉 Full interactive dashboard in [`/powerbi/anime_analytics.pbix`](powerbi/anime_analytics.pbix).  
 
 ---
 
@@ -88,14 +79,14 @@ Interactive dashboard showing:
 
 ---
 
-## Insights ✨  
-- Anime production has grown significantly since the 1980s, with peaks in the 2010s.  
-- **Genres like Drama and Mystery** tend to score higher than average.  
-- Popularity doesn’t always mean high ratings — some highly watched shows are rated lower, while niche series achieve high scores.  
-- Certain studios (e.g., Kyoto Animation, Madhouse, Wit Studio) consistently deliver strong ratings.  
+## Key Insights ✨  
+- **Anime production** has grown rapidly since the 1980s, peaking in the 2010s.  
+- **Drama and Mystery genres** often achieve the highest ratings.  
+- **Popularity ≠ Quality** — some highly popular shows have lower ratings, while niche titles rank very high.  
+- **Studios like Kyoto Animation, Madhouse, and Wit Studio** consistently deliver critically acclaimed works.  
 
 ---
 
 ## License 📜  
-This project is for educational & portfolio purposes only. Data originates from **AniList API** and **MyAnimeList (via Kaggle)**.  
-
+This project is for educational & portfolio purposes only.  
+Data originates from **AniList API** and **MyAnimeList (via Kaggle)**.
