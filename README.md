@@ -8,9 +8,9 @@ The goal is to demonstrate skills in **Excel, SQL (DuckDB), and Power BI**, whil
 
 ## Dataset 📂  
 - **Anime TV Series Dataset (1,200 entries)**  
-  - Release years: 1960–2023  
+  - Release years: 1960-2023  
   - Genres, studios, number of episodes  
-  - Average ratings (0–10)  
+  - Average ratings (0-10)  
   - Popularity counts (audience size)  
 
 ### Data Sources  
@@ -32,12 +32,22 @@ Dataset is stored in [`/data/anime_tv_series_dataset.csv`](data/anime_tv_series_
 ## Analysis & Visuals 📊  
 
 ### Excel  
-- **Anime Releases by Year (1960–2023)**  
+- **Anime Releases by Year (1960-2023)**  
 - **Average Ratings by Genre**  
 - **Top 10 Most Popular Anime: Popularity vs Rating**  
 
-👉 Charts exported to `/images/` and shown below:  
-*(add your PNGs once exported)*  
+### Excel Charts  
+
+![Anime Releases by Year](images/releases_by_year.png)  
+*Number of anime TV series released each year (1960-2023).*
+
+![Average Ratings by Genre](images/ratings_by_genre.png)  
+*Average audience ratings by genre.*
+
+![Top 10 Popular Anime](images/top10_popularity.png)  
+*Comparison of popularity vs ratings for the top 10 shows.*
+
+
 
 ---
 
@@ -48,6 +58,11 @@ Example questions answered:
 - Which studios have the highest average ratings?  
 - How have anime ratings changed across decades?  
 - Which genres are both popular and highly rated?  
+
+**Query outputs (CSV):**
+- [Releases by Year](sql/releases_by_year.csv)
+- [Average Rating by Genre](sql/avg_rating_by_genre.csv)
+- [Top 10 Studios by Rating](sql/top10_studios.csv)
 
 ---
 
@@ -60,7 +75,7 @@ Interactive dashboard showing:
 👉 PBIX file in [`/powerbi/`](powerbi/).  
 👉 Screenshots exported to `/images/`.  
 
-*(optional: add Power BI “Publish to Web” link here)*  
+*(optional: add Power BI "Publish to Web" link here)*  
 
 ---
 
